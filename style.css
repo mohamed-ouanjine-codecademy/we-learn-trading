@@ -1,54 +1,31 @@
-/* Global styles */
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  background-color: #f8f9fa;
-  color: #333;
-  margin: 0;
-  padding: 0;
-}
-
-/* Header styles */
-h1 {
+/* Footer styles */
+footer {
+  background-color: rgba(0, 0, 0, .75);
+  color: #fff;
   text-align: center;
-  margin-top: 20px;
-}
-
-/* Section heading styles */
-h2 {
-  margin-top: 30px;
-  margin-bottom: 10px;
-  font-size: 1.5em;
-  color: #007bff;
-}
-
-/* List styles */
-ol, ul {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  padding-left: 20px;
+  padding: 10px 0;
 }
 
 /* Article section styles */
 .article-section {
   margin-top: 20px;
-  padding: 15px;
-  border: 1px solid #ced4da;
-  border-radius: 5px;
+  padding: 20px;
+  border-radius: 8px;
   background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* Article title styles */
 .article-title {
-  margin-bottom: 5px;
-  font-size: 1.2em;
+  margin-bottom: 10px;
+  font-size: 1.5em;
   color: #007bff;
 }
 
 /* Article description styles */
 .article-description {
-  margin-bottom: 10px;
-  font-size: 1em;
+  margin-bottom: 15px;
+  font-size: 1.1em;
 }
 
 /* Article source styles */
