@@ -1,0 +1,69 @@
+ /* Global styles */
+ body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f8f9fa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styles */
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Section heading styles */
+h2 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 1.5em;
+  color: #007bff;
+}
+
+/* List styles */
+ol,
+ul {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+}
+
+/* Article section styles */
+.article-section {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+/* Article title styles */
+.article-title {
+  margin-bottom: 5px;
+  font-size: 1.2em;
+  color: #007bff;
+}
+
+/* Article description styles */
+.article-description {
+  margin-bottom: 10px;
+  font-size: 1em;
+}
+
+/* Article source styles */
+.article-source {
+  font-size: 0.9em;
+  color: #6c757d;
+}
+
+/* Link styles */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
