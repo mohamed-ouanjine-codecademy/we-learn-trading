@@ -1,5 +1,5 @@
- /* Global styles */
- body {
+/* Global styles */
+body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   background-color: #f8f9fa;
@@ -23,8 +23,7 @@ h2 {
 }
 
 /* List styles */
-ol,
-ul {
+ol, ul {
   margin-top: 10px;
   margin-bottom: 10px;
   padding-left: 20px;
