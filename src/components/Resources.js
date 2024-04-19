@@ -3,7 +3,7 @@ import React from "react";
 function Resources() {
   return (
     <>
-      <div className="container">
+      <div className="container" style={{ minHeight: '100vh' }}>
         <div className="row">
           <div className="col">
               <h1 id="trading-learning-resources">Trading Learning Resources</h1>
