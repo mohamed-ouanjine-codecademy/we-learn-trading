@@ -1,0 +1,211 @@
+{
+  "Understanding Market Basics": {
+    "Introduction to the stock market": {
+      "description": "Definition and function of the stock market",
+      "resources": [
+        {
+          "title": "Investopedia - What Is the Stock Market and How Does It Work?",
+          "url": "https://www.investopedia.com/terms/s/stockmarket.asp"
+        }
+      ]
+    },
+    "Participants and their roles": {
+      "Investors": {
+        "description": "Types (retail, institutional), objectives, strategies",
+        "resources": [
+          {
+            "title": "Investopedia - Institutional Investor: Who They Are and How They Invest",
+            "url": "https://www.investopedia.com/terms/i/institutionalinvestor.asp"
+          },
+          {
+            "title": "Investopedia - Retail Investor: Definition, What They Do, and Market Impact",
+            "url": "https://www.investopedia.com/terms/r/retailinvestor.asp"
+          }
+        ]
+      },
+      "Traders": {
+        "description": "Types (day traders, swing traders), trading styles",
+        "resources": [
+          {
+            "title": "Investopedia - What Is a Trader, and What Do Traders Do?",
+            "url": "https://www.investopedia.com/terms/t/trader.asp",
+            "description": "A trader is someone who engages in the purchase or sale of assets in any financial market, either for themself or on behalf of another party."
+          }
+        ]
+      },
+      "Institutions": {
+        "description": "Hedge funds, mutual funds, banks, pension funds",
+        "resources": [
+          {
+            "title": "Investopedia - Hedge Fund: Definition, Examples, Types, and Strategies",
+            "url": "https://www.investopedia.com/terms/h/hedgefund.asp"
+          },
+          {
+            "title": "Investopedia - What Is a Mutual Fund?",
+            "url": "https://www.investopedia.com/terms/m/mutualfund.asp"
+          },
+          {
+            "title": "Investopedia - How Do Pension Funds Work?",
+            "url": "https://www.investopedia.com/articles/investing-strategy/090916/how-do-pension-funds-work.asp"
+          }
+        ]
+      }
+    },
+    "Market structure": {
+      "Primary vs. secondary markets": {
+        "description": "Overview of primary and secondary markets",
+        "resources": []
+      },
+      "Order types": {
+        "description": "Types of orders: market orders, limit orders",
+        "resources": []
+      }
+    },
+    "Overview of financial instruments": {
+      "Stocks": {
+        "description": "Common vs. preferred, market capitalization",
+        "resources": []
+      },
+      "Bonds": {
+        "description": "Types (government, corporate), yield, credit rating",
+        "resources": []
+      },
+      "Commodities": {
+        "description": "Categories (agricultural, energy, metals), futures contracts",
+        "resources": []
+      },
+      "Currencies": {
+        "description": "Major vs. minor pairs, exchange rates, forex market",
+        "resources": []
+      }
+    }
+  },
+  "Foundations of Technical Analysis": {
+    "Introduction to technical analysis": {
+      "description": "Definition, objectives, and principles",
+      "resources": []
+    },
+    "History and evolution": {
+      "description": "Origins of technical analysis, Evolution of charting methods and tools",
+      "resources": []
+    },
+    "Key principles and assumptions": {
+      "description": "Efficient market hypothesis, Price discounts all information, Patterns repeat over time",
+      "resources": []
+    },
+    "Price charts and timeframes": {
+      "description": "Types of price charts, Importance of timeframes, Charting platforms and software",
+      "resources": []
+    }
+  },
+  "Candlestick Patterns": {
+    "Basics of candlestick analysis": {
+      "description": "Anatomy of a candlestick, Significance of candlestick patterns in technical analysis",
+      "resources": []
+    },
+    "Single candlestick patterns": {
+      "description": "Doji, hammer, hanging man, shooting star",
+      "resources": []
+    },
+    "Multiple candlestick patterns": {
+      "description": "Engulfing patterns, harami, morning/evening star",
+      "resources": []
+    },
+    "Interpretation and significance": {
+      "description": "Bullish vs. bearish reversal patterns, Continuation patterns vs. reversal patterns",
+      "resources": []
+    }
+  },
+  "Technical Indicators": {
+    "Types of technical indicators": {
+      "description": "Trend-following indicators, Oscillators, Volume-based indicators",
+      "resources": []
+    },
+    "Application of technical indicators": {
+      "description": "Identifying trends, momentum, and overbought/oversold conditions, Generating buy/sell signals and interpreting indicator crossovers",
+      "resources": []
+    }
+  },
+  "Chart Patterns": {
+    "Classical chart patterns": {
+      "description": "Head and shoulders, double tops/bottoms",
+      "resources": []
+    },
+    "Continuation patterns": {
+      "description": "Flags, pennants, rectangles",
+      "resources": []
+    },
+    "Reversal patterns": {
+      "description": "Cup and handle, saucers",
+      "resources": []
+    },
+    "Triangle patterns": {
+      "description": "Ascending, descending, symmetrical triangles",
+      "resources": []
+    },
+    "Wedge patterns": {
+      "description": "Rising, falling wedges",
+      "resources": []
+    }
+  },
+  "Risk Management": {
+    "Importance of risk management in trading": {
+      "description": "Preservation of capital, Minimizing losses and controlling risk exposure",
+      "resources": []
+    },
+    "Position sizing and leverage": {
+      "description": "Calculating position size based on risk tolerance and account size, Understanding leverage and margin requirements",
+      "resources": []
+    },
+    "Setting stop-loss orders": {
+      "description": "Types of stop-loss orders, Determining appropriate stop-loss levels based on volatility and price action",
+      "resources": []
+    }
+  },
+  "Backtesting and Strategy Development": {
+    "Basics of backtesting": {
+      "description": "Historical data analysis and data sources, Importance of robust backtesting for strategy validation",
+      "resources": []
+    },
+    "Testing trading strategies": {
+      "description": "Defining entry and exit criteria, Assessing performance metrics",
+      "resources": []
+    },
+    "Developing trading strategies": {
+      "description": "Combining technical indicators and chart patterns, Incorporating risk management rules and trade filters",
+      "resources": []
+    },
+    "Strategy optimization and refinement": {
+      "description": "Iterative process of refining and improving trading strategies",
+      "resources": []
+    }
+  },
+  "Psychology of Trading": {
+    "Understanding trader psychology": {
+      "description": "Emotions and their impact on decision-making, Cognitive biases and psychological traps",
+      "resources": []
+    },
+    "Techniques for managing emotions": {
+      "description": "Mindfulness and self-awareness techniques, Developing discipline, patience, and resilience",
+      "resources": []
+    },
+    "Overcoming common psychological pitfalls": {
+      "description": "Impulse trading, revenge trading, chasing losses",
+      "resources": []
+    }
+  },
+  "Continual Learning and Practice": {
+    "Staying updated on market developments": {
+      "description": "News sources, financial websites, economic calendars, Market analysis and commentary from reputable sources",
+      "resources": []
+    },
+    "Engaging with trading communities": {
+      "description": "Online forums, social media groups, trading communities, Participating in discussions, sharing insights, and learning from others",
+      "resources": []
+    },
+    "Continuous practice and improvement": {
+      "description": "Regularly analyzing charts, identifying trade setups, and executing trades, Reviewing past trades, identifying strengths and weaknesses, and seeking feedback for improvement",
+      "resources": []
+    }
+  }
+}
