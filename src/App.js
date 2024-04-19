@@ -1,6 +1,5 @@
 import React from 'react';
 import {RouterProvider , createBrowserRouter, createRoutesFromElements, Route } from 'react-router-dom';
-// components
 import Root from './components/Root';
 import Welcome from './components/Welcome';
 import Roadmap from './components/roadmap/Roadmap';
