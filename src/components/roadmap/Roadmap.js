@@ -19,7 +19,7 @@ function Roadmap() {
   }, []);
 
   return (
-    <div className="container">
+    <div className="container" style={{ minHeight: '100vh' }}>
       <div className='row mb-5'>
         <div className='col'>
           <h1>Technical Analysis Learning Plan</h1>
