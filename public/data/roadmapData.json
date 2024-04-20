@@ -76,7 +76,7 @@
         ]
       },
       "Order types": {
-        "description": "Types of orders: market orders, limit orders",
+        "description": "(market orders, limit orders)",
         "resources": [
           {
             "title": "Investopedia - What Is an Order?",
@@ -149,11 +149,11 @@
     },
     "Price charts and timeframes": {
       "Types of price charts": {
-        "description": "",
+        "description": "Line, bar, candlestick",
         "resources": []
       },
       "Importance of timeframes": {
-        "description": "",
+        "description": "Intraday, daily, weekly, monthly",
         "resources": []
       },
       "Charting platforms and software": {
@@ -165,7 +165,7 @@
   "Candlestick Patterns": {
     "Basics of candlestick analysis": {
       "Anatomy of a candlestick": {
-        "description": "",
+        "description": "(body, wick/shadow)",
         "resources": []
       },
       "Significance of candlestick patterns in technical analysis": {
@@ -219,15 +219,15 @@
   "Technical Indicators": {
     "Types of technical indicators": {
       "Trend-following indicators": {
-        "description": "",
+        "description": "Moving averages, MACD",
         "resources": []
       },
       "Oscillators": {
-        "description": "",
+        "description": "RSI, Stochastic oscillator",
         "resources": []
       },
       "Volume-based indicators": {
-        "description": "",
+        "description": " OBV, Chaikin Money Flow",
         "resources": []
       }
     },
@@ -325,7 +325,7 @@
     },
     "Setting stop-loss orders": {
       "Types of stop-loss orders": {
-        "description": "",
+        "description": "(market, limit, trailing)",
         "resources": []
       },
       "Determining appropriate stop-loss levels based on volatility and price action": {
@@ -351,7 +351,7 @@
         "resources": []
       },
       "Assessing performance metrics": {
-        "description": "",
+        "description": "(win rate, risk-reward ratio)",
         "resources": []
       }
     },
@@ -375,7 +375,7 @@
   "Psychology of Trading": {
     "Understanding trader psychology": {
       "Emotions and their impact on decision-making": {
-        "description": "",
+        "description": "(fear, greed, overconfidence)",
         "resources": []
       },
       "Cognitive biases and psychological traps": {
