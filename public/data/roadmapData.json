@@ -75,8 +75,8 @@
           }
         ]
       },
-      "Order types": {
-        "description": "(market orders, limit orders)",
+      "Order types (market orders, limit orders)": {
+        "description": "",
         "resources": [
           {
             "title": "Investopedia - What Is an Order?",
@@ -164,8 +164,8 @@
   },
   "Candlestick Patterns": {
     "Basics of candlestick analysis": {
-      "Anatomy of a candlestick": {
-        "description": "(body, wick/shadow)",
+      "Anatomy of a candlestick (body, wick/shadow)": {
+        "description": "",
         "resources": []
       },
       "Significance of candlestick patterns in technical analysis": {
@@ -324,8 +324,8 @@
       }
     },
     "Setting stop-loss orders": {
-      "Types of stop-loss orders": {
-        "description": "(market, limit, trailing)",
+      "Types of stop-loss orders (market, limit, trailing)": {
+        "description": "",
         "resources": []
       },
       "Determining appropriate stop-loss levels based on volatility and price action": {
@@ -350,8 +350,8 @@
         "description": "",
         "resources": []
       },
-      "Assessing performance metrics": {
-        "description": "(win rate, risk-reward ratio)",
+      "Assessing performance metrics (win rate, risk-reward ratio)": {
+        "description": "",
         "resources": []
       }
     },
@@ -374,8 +374,8 @@
   },
   "Psychology of Trading": {
     "Understanding trader psychology": {
-      "Emotions and their impact on decision-making": {
-        "description": "(fear, greed, overconfidence)",
+      "Emotions and their impact on decision-making (fear, greed, overconfidence)": {
+        "description": "",
         "resources": []
       },
       "Cognitive biases and psychological traps": {
