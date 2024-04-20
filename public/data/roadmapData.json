@@ -77,7 +77,12 @@
       },
       "Order types": {
         "description": "Types of orders: market orders, limit orders",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - What Is an Order?",
+            "url": "https://www.investopedia.com/terms/o/order.asp#toc-order-types"
+          }
+        ]
       }
     },
     "Overview of financial instruments": {
