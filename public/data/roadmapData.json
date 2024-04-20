@@ -1,13 +1,19 @@
 {
   "Understanding Market Basics": {
     "Introduction to the stock market": {
-      "description": "Definition and function of the stock market",
-      "resources": [
-        {
-          "title": "Investopedia - What Is the Stock Market and How Does It Work?",
-          "url": "https://www.investopedia.com/terms/s/stockmarket.asp"
-        }
-      ]
+      "Definition and function of the stock market": {
+        "description": "",
+        "resources": [
+          {
+            "title": "Investopedia - What Is the Stock Market and How Does It Work?",
+            "url": "https://www.investopedia.com/terms/s/stockmarket.asp"
+          }
+        ]
+      },
+      "Basic terminology (stocks, exchanges, indices)": {
+        "description": "",
+        "resources": []
+      }
     },
     "Participants and their roles": {
       "Investors": {
@@ -82,130 +88,330 @@
   },
   "Foundations of Technical Analysis": {
     "Introduction to technical analysis": {
-      "description": "Definition, objectives, and principles",
-      "resources": []
+      "Definition, objectives, and principles": {
+        "description": "",
+        "resources": []
+      },
+      "Comparison with fundamental analysis": {
+        "description": "",
+        "resources": []
+      }
     },
     "History and evolution": {
-      "description": "Origins of technical analysis, Evolution of charting methods and tools",
-      "resources": []
+      "Origins of technical analysis": {
+        "description": "",
+        "resources": []
+      },
+      "Evolution of charting methods and tools": {
+        "description": "",
+        "resources": []
+      }
     },
     "Key principles and assumptions": {
-      "description": "Efficient market hypothesis, Price discounts all information, Patterns repeat over time",
-      "resources": []
+      "Efficient market hypothesis": {
+        "description": "",
+        "resources": []
+      },
+      "Price discounts all information": {
+        "description": "",
+        "resources": []
+      },
+      "Patterns repeat over time": {
+        "description": "",
+        "resources": []
+      }
     },
     "Price charts and timeframes": {
-      "description": "Types of price charts, Importance of timeframes, Charting platforms and software",
-      "resources": []
+      "Types of price charts": {
+        "description": "",
+        "resources": []
+      },
+      "Importance of timeframes": {
+        "description": "",
+        "resources": []
+      },
+      "Charting platforms and software": {
+        "description": "",
+        "resources": []
+      }
     }
   },
   "Candlestick Patterns": {
     "Basics of candlestick analysis": {
-      "description": "Anatomy of a candlestick, Significance of candlestick patterns in technical analysis",
-      "resources": []
+      "Anatomy of a candlestick": {
+        "description": "",
+        "resources": []
+      },
+      "Significance of candlestick patterns in technical analysis": {
+        "description": "",
+        "resources": []
+      }
     },
     "Single candlestick patterns": {
-      "description": "Doji, hammer, hanging man, shooting star",
-      "resources": []
+      "Doji": {
+        "description": "",
+        "resources": []
+      },
+      "Hammer": {
+        "description": "",
+        "resources": []
+      },
+      "Hanging man": {
+        "description": "",
+        "resources": []
+      },
+      "Shooting star": {
+        "description": "",
+        "resources": []
+      }
     },
     "Multiple candlestick patterns": {
-      "description": "Engulfing patterns, harami, morning/evening star",
-      "resources": []
+      "Engulfing patterns": {
+        "description": "",
+        "resources": []
+      },
+      "Harami": {
+        "description": "",
+        "resources": []
+      },
+      "Morning/evening star": {
+        "description": "",
+        "resources": []
+      }
     },
     "Interpretation and significance": {
-      "description": "Bullish vs. bearish reversal patterns, Continuation patterns vs. reversal patterns",
-      "resources": []
+      "Bullish vs. bearish reversal patterns": {
+        "description": "",
+        "resources": []
+      },
+      "Continuation patterns vs. reversal patterns": {
+        "description": "",
+        "resources": []
+      }
     }
   },
   "Technical Indicators": {
     "Types of technical indicators": {
-      "description": "Trend-following indicators, Oscillators, Volume-based indicators",
-      "resources": []
+      "Trend-following indicators": {
+        "description": "",
+        "resources": []
+      },
+      "Oscillators": {
+        "description": "",
+        "resources": []
+      },
+      "Volume-based indicators": {
+        "description": "",
+        "resources": []
+      }
     },
     "Application of technical indicators": {
-      "description": "Identifying trends, momentum, and overbought/oversold conditions, Generating buy/sell signals and interpreting indicator crossovers",
-      "resources": []
+      "Identifying trends, momentum, and overbought/oversold conditions": {
+        "description": "",
+        "resources": []
+      },
+      "Generating buy/sell signals and interpreting indicator crossovers": {
+        "description": "",
+        "resources": []
+      }
     }
   },
   "Chart Patterns": {
     "Classical chart patterns": {
-      "description": "Head and shoulders, double tops/bottoms",
-      "resources": []
+      "Head and shoulders": {
+        "description": "",
+        "resources": []
+      },
+      "Double tops/bottoms": {
+        "description": "",
+        "resources": []
+      }
     },
     "Continuation patterns": {
-      "description": "Flags, pennants, rectangles",
-      "resources": []
+      "Flags": {
+        "description": "",
+        "resources": []
+      },
+      "Pennants": {
+        "description": "",
+        "resources": []
+      },
+      "Rectangles": {
+        "description": "",
+        "resources": []
+      }
     },
     "Reversal patterns": {
-      "description": "Cup and handle, saucers",
-      "resources": []
+      "Cup and handle": {
+        "description": "",
+        "resources": []
+      },
+      "Saucers": {
+        "description": "",
+        "resources": []
+      }
     },
     "Triangle patterns": {
-      "description": "Ascending, descending, symmetrical triangles",
-      "resources": []
+      "Ascending": {
+        "description": "",
+        "resources": []
+      },
+      "Descending": {
+        "description": "",
+        "resources": []
+      },
+      "Symmetrical triangles": {
+        "description": "",
+        "resources": []
+      }
     },
     "Wedge patterns": {
-      "description": "Rising, falling wedges",
-      "resources": []
+      "Rising": {
+        "description": "",
+        "resources": []
+      },
+      "Falling wedges": {
+        "description": "",
+        "resources": []
+      }
     }
   },
   "Risk Management": {
     "Importance of risk management in trading": {
-      "description": "Preservation of capital, Minimizing losses and controlling risk exposure",
-      "resources": []
+      "Preservation of capital": {
+        "description": "",
+        "resources": []
+      },
+      "Minimizing losses and controlling risk exposure": {
+        "description": "",
+        "resources": []
+      }
     },
     "Position sizing and leverage": {
-      "description": "Calculating position size based on risk tolerance and account size, Understanding leverage and margin requirements",
-      "resources": []
+      "Calculating position size based on risk tolerance and account size": {
+        "description": "",
+        "resources": []
+      },
+      "Understanding leverage and margin requirements": {
+        "description": "",
+        "resources": []
+      }
     },
     "Setting stop-loss orders": {
-      "description": "Types of stop-loss orders, Determining appropriate stop-loss levels based on volatility and price action",
-      "resources": []
+      "Types of stop-loss orders": {
+        "description": "",
+        "resources": []
+      },
+      "Determining appropriate stop-loss levels based on volatility and price action": {
+        "description": "",
+        "resources": []
+      }
     }
   },
   "Backtesting and Strategy Development": {
     "Basics of backtesting": {
-      "description": "Historical data analysis and data sources, Importance of robust backtesting for strategy validation",
-      "resources": []
+      "Historical data analysis and data sources": {
+        "description": "",
+        "resources": []
+      },
+      "Importance of robust backtesting for strategy validation": {
+        "description": "",
+        "resources": []
+      }
     },
     "Testing trading strategies": {
-      "description": "Defining entry and exit criteria, Assessing performance metrics",
-      "resources": []
+      "Defining entry and exit criteria": {
+        "description": "",
+        "resources": []
+      },
+      "Assessing performance metrics": {
+        "description": "",
+        "resources": []
+      }
     },
     "Developing trading strategies": {
-      "description": "Combining technical indicators and chart patterns, Incorporating risk management rules and trade filters",
-      "resources": []
+      "Combining technical indicators and chart patterns": {
+        "description": "",
+        "resources": []
+      },
+      "Incorporating risk management rules and trade filters": {
+        "description": "",
+        "resources": []
+      }
     },
     "Strategy optimization and refinement": {
-      "description": "Iterative process of refining and improving trading strategies",
-      "resources": []
+      "Iterative process of refining and improving trading strategies": {
+        "description": "",
+        "resources": []
+      }
     }
   },
   "Psychology of Trading": {
     "Understanding trader psychology": {
-      "description": "Emotions and their impact on decision-making, Cognitive biases and psychological traps",
-      "resources": []
+      "Emotions and their impact on decision-making": {
+        "description": "",
+        "resources": []
+      },
+      "Cognitive biases and psychological traps": {
+        "description": "",
+        "resources": []
+      }
     },
     "Techniques for managing emotions": {
-      "description": "Mindfulness and self-awareness techniques, Developing discipline, patience, and resilience",
-      "resources": []
+      "Mindfulness and self-awareness techniques": {
+        "description": "",
+        "resources": []
+      },
+      "Developing discipline, patience, and resilience": {
+        "description": "",
+        "resources": []
+      }
     },
     "Overcoming common psychological pitfalls": {
-      "description": "Impulse trading, revenge trading, chasing losses",
-      "resources": []
+      "Impulse trading": {
+        "description": "",
+        "resources": []
+      },
+      "Revenge trading": {
+        "description": "",
+        "resources": []
+      },
+      "Chasing losses": {
+        "description": "",
+        "resources": []
+      }
     }
   },
   "Continual Learning and Practice": {
     "Staying updated on market developments": {
-      "description": "News sources, financial websites, economic calendars, Market analysis and commentary from reputable sources",
-      "resources": []
+      "News sources, financial websites, economic calendars": {
+        "description": "",
+        "resources": []
+      },
+      "Market analysis and commentary from reputable sources": {
+        "description": "",
+        "resources": []
+      }
     },
     "Engaging with trading communities": {
-      "description": "Online forums, social media groups, trading communities, Participating in discussions, sharing insights, and learning from others",
-      "resources": []
+      "Online forums, social media groups, trading communities": {
+        "description": "",
+        "resources": []
+      },
+      "Participating in discussions, sharing insights, and learning from others": {
+        "description": "",
+        "resources": []
+      }
     },
     "Continuous practice and improvement": {
-      "description": "Regularly analyzing charts, identifying trade setups, and executing trades, Reviewing past trades, identifying strengths and weaknesses, and seeking feedback for improvement",
-      "resources": []
+      "Regularly analyzing charts, identifying trade setups, and executing trades": {
+        "description": "",
+        "resources": []
+      },
+      "Reviewing past trades, identifying strengths and weaknesses, and seeking feedback for improvement": {
+        "description": "",
+        "resources": []
+      }
     }
   }
 }
