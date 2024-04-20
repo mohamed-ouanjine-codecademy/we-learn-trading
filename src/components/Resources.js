@@ -10,41 +10,41 @@ function Resources() {
               <h2 id="websites">Websites:</h2>
               <ul>
                 <li>
-                  <p><a href="https://www.investopedia.com/">Investopedia</a>: Comprehensive resource for finance, investing,
+                  <p><a href="https://www.investopedia.com/" target="_blank" rel="noopener noreferrer">Investopedia</a>: Comprehensive resource for finance, investing,
                     and trading education.</p>
                 </li>
                 <li>
-                  <p><a href="https://www.tradingview.com/">TradingView</a>: Platform offering charting tools, tutorials,
+                  <p><a href="https://www.tradingview.com/" target="_blank" rel="noopener noreferrer">TradingView</a>: Platform offering charting tools, tutorials,
                     webinars, and community discussions.</p>
                 </li>
                 <li>
-                  <p><a href="https://www.babypips.com/">BabyPips</a>: Beginner’s guide to forex trading with educational
+                  <p><a href="https://www.babypips.com/" target="_blank" rel="noopener noreferrer">BabyPips</a>: Beginner’s guide to forex trading with educational
                     content and forums.</p>
                 </li>
               </ul>
               <h2 id="youtube-channels">YouTube Channels:</h2>
               <ul>
                 <li>
-                  <p><a href="https://www.youtube.com/user/UKspreadbetting">UKspreadbetting</a>: Offers trading tutorials and
+                  <p><a href="https://www.youtube.com/user/UKspreadbetting" target="_blank" rel="noopener noreferrer">UKspreadbetting</a>: Offers trading tutorials and
                     market analysis.</p>
                 </li>
                 <li>
-                  <p><a href="https://www.youtube.com/user/TradingwithRayner">Rayner Teo</a>: Provides educational videos on
+                  <p><a href="https://www.youtube.com/user/TradingwithRayner" target="_blank" rel="noopener noreferrer">Rayner Teo</a>: Provides educational videos on
                     trading strategies and psychology.</p>
                 </li>
                 <li>
-                  <p><a href="https://www.youtube.com/@ChartGuys">The Chart Guys</a>: Offers technical analysis tutorials and
+                  <p><a href="https://www.youtube.com/@ChartGuys" target="_blank" rel="noopener noreferrer">The Chart Guys</a>: Offers technical analysis tutorials and
                     live trading sessions.</p>
                 </li>
               </ul>
               <h2 id="online-learning-platforms">Online Learning Platforms:</h2>
               <ul>
                 <li>
-                  <p><a href="https://www.coursera.org/">Coursera</a>: Offers courses on trading, technical analysis, and
+                  <p><a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">Coursera</a>: Offers courses on trading, technical analysis, and
                     related topics taught by industry professionals.</p>
                 </li>
                 <li>
-                  <p><a href="https://www.udemy.com/">Udemy</a>: Provides a variety of trading courses ranging from beginner
+                  <p><a href="https://www.udemy.com/" target="_blank" rel="noopener noreferrer">Udemy</a>: Provides a variety of trading courses ranging from beginner
                     to
                     advanced levels.</p>
                 </li>
@@ -67,15 +67,15 @@ function Resources() {
               <h2 id="online-forums-and-communities">Online Forums and Communities:</h2>
               <ul>
                 <li>
-                  <p><a href="https://www.reddit.com/r/trading/">Reddit - r/Trading</a>: Community for discussing trading
+                  <p><a href="https://www.reddit.com/r/trading/" target="_blank" rel="noopener noreferrer">Reddit - r/Trading</a>: Community for discussing trading
                     strategies, market news, and education.</p>
                 </li>
                 <li>
-                  <p><a href="https://www.elitetrader.com/">Elite Trader</a>: Online forum for traders to share insights and
+                  <p><a href="https://www.elitetrader.com/" target="_blank" rel="noopener noreferrer">Elite Trader</a>: Online forum for traders to share insights and
                     discuss trading-related topics.</p>
                 </li>
                 <li>
-                  <p><a href="https://www.trade2win.com/">Trade2Win</a>: Provides forums, articles, and resources for traders
+                  <p><a href="https://www.trade2win.com/" target="_blank" rel="noopener noreferrer">Trade2Win</a>: Provides forums, articles, and resources for traders
                     of
                     all levels.</p>
                 </li>
