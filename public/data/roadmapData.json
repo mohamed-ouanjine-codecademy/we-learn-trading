@@ -60,7 +60,20 @@
     "Market structure": {
       "Primary vs. secondary markets": {
         "description": "Overview of primary and secondary markets",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Primary Market: Definition, Types, Examples, and Secondary",
+            "url": "https://www.investopedia.com/terms/p/primarymarket.asp"
+          },
+          {
+            "title": "Investopedia - What Is the Secondary Market? How It Works and Pricing",
+            "url": "https://www.investopedia.com/terms/s/secondarymarket.asp"
+          },
+          {
+            "title": "Investopedia - Primary vs. Secondary Capital Markets: What's the Difference?",
+            "url": "https://www.investopedia.com/ask/answers/012615/whats-difference-between-primary-and-secondary-capital-markets.asp"
+          }
+        ]
       },
       "Order types": {
         "description": "Types of orders: market orders, limit orders",
