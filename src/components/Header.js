@@ -10,7 +10,7 @@ const Header = () => {
             <NavLink className={`nav-link ${({ isActive }) => isActive && 'active'}`} aria-current="page" to="./">Home</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className={`nav-link ${({ isActive }) => isActive && 'active'}`} aria-current="page" to="./roadmap">Roadmap</NavLink>
+            <NavLink className={`nav-link ${({ isActive }) => isActive && 'active'}`} aria-current="page" to="./road-map">Road Map</NavLink>
           </li>
           <li className="nav-item">
             <NavLink className={`nav-link ${({ isActive }) => isActive && 'active'}`} to="./resources">Resources</NavLink>

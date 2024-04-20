@@ -8,7 +8,7 @@ import Resources from './components/Resources';
 const router = createBrowserRouter(createRoutesFromElements(
   <Route path='/' element={<Root />}>
     <Route index element={<Welcome />} />
-    <Route path='roadmap' element={<RoadMap />} />
+    <Route path='road-map' element={<RoadMap />} />
     <Route path='resources' element={<Resources />} />
   </Route>
 ));
