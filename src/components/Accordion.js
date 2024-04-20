@@ -1,4 +1,3 @@
-// Accordion.js
 import React from "react";
 import AccordionItem from "./AccordionItem";
 

@@ -1,4 +1,3 @@
-// AccordionItem.js
 import React, { useState } from "react";
 import Accordion from "./Accordion";
 
@@ -13,22 +12,22 @@ function AccordionItem({ header, body }) {
     <div className="accordion-item">
       <h2 className="accordion-header">
         <button
-          className={`accordion-button ${isOpen ? "active" : "collapsed"}`} // Use Bootstrap's 'collapsed' class
+          className={`accordion-button ${isOpen ? "active" : "collapsed"}`}
           type="button"
           onClick={toggleAccordion}
         >
-          <span className="fw-bold">{header}</span> {/* Use Bootstrap's 'fw-bold' class for bold text */}
+          <span className="fw-bold">{header}</span>
         </button>
       </h2>
       <div
-        className={`accordion-collapse collapse ${isOpen ? "show" : ""}`} // Use Bootstrap's 'collapse' and 'show' classes
+        className={`accordion-collapse collapse ${isOpen ? "show" : ""}`}
       >
         <div className="accordion-body">
           {Object.keys(body).includes("resources") ? (
             <div className="container-fluid">
               <div className="row">
                 <div className="col">
-                  <p className="mb-3">{body.description}</p> {/* Add margin-bottom to the description */}
+                  <p className="mb-3">{body.description}</p>
                 </div>
               </div>
               <div className="row row-cols-1 g-3">
