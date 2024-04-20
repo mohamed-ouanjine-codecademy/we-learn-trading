@@ -80,7 +80,15 @@
         "resources": [
           {
             "title": "Investopedia - What Is an Order?",
-            "url": "https://www.investopedia.com/terms/o/order.asp#toc-order-types"
+            "url": "https://www.investopedia.com/terms/o/order.asp"
+          },
+          {
+            "title": "Investopedia - Market Order: Definition, Example, Vs. Limit Order",
+            "url": "https://www.investopedia.com/terms/m/marketorder.asp"
+          },
+          {
+            "title": "Investopedia - What Is a Limit Order in Trading, and How Does It Work?",
+            "url": "https://www.investopedia.com/terms/l/limitorder.asp"
           }
         ]
       }
