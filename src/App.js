@@ -2,7 +2,7 @@ import React from 'react';
 import {RouterProvider , createBrowserRouter, createRoutesFromElements, Route } from 'react-router-dom';
 import Root from './components/Root';
 import Welcome from './components/Welcome';
-import RoadMap from './components/roadMap/RoadMap'
+import RoadMap from './components/hello/RoadMap'
 import Resources from './components/Resources';
 
 const router = createBrowserRouter(createRoutesFromElements(
