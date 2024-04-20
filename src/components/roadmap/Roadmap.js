@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Section from './components/Section';
 
-function Roadmap() {
+function RoadMap() {
   const [roadmapData, setRoadmapData] = useState(null);
 
   useEffect(() => {
@@ -37,4 +37,4 @@ function Roadmap() {
   );
 }
 
-export default Roadmap;
+export default RoadMap;
