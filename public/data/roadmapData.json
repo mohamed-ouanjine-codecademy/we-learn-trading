@@ -96,7 +96,20 @@
     "Overview of financial instruments": {
       "Stocks": {
         "description": "Common vs. preferred, market capitalization",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Stocks: What They Are, Main Types, How They Differ From Bonds",
+            "url": "https://www.investopedia.com/terms/s/stock.asp"
+          },
+          {
+            "title": "Investopedia - Common Stock: What It Is, Different Types, vs. Preferred Stock",
+            "url": "https://www.investopedia.com/terms/c/commonstock.asp"
+          },
+          {
+            "title": "Investopedia - Preferred Stock",
+            "url": "https://www.investopedia.com/terms/p/preferredstock.asp"
+          }
+        ]
       },
       "Bonds": {
         "description": "Types (government, corporate), yield, credit rating",
