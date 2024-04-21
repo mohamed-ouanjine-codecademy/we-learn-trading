@@ -25,24 +25,43 @@ function AccordionItem({ header, body }) {
         <div className="accordion-body">
           {Object.keys(body).includes("resources") ? (
             <div className="container-fluid">
-              <div className="row">
-                <div className="col">
-                  <p className="mb-3">{body.description}</p>
-                </div>
-              </div>
-              <div className="row row-cols-1 g-3">
-                {body.resources.map(({ title, url }, index) => (
-                  <div className="col" key={index}>
-                    <a
-                      target="_blank"
-                      href={url}
-                      rel="noreferrer"
-                      className="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover"
-                    >
-                      {title}
-                    </a>
+              {
+                (body.description) && (
+                  <div className="row">
+                    <div className="col">
+                      <p className="mb-3">{body.description}</p>
+                    </div>
                   </div>
-                ))}
+                )
+              }
+              <div className="row row-cols-1 g-3">
+                {
+                  (body.resources.length === 0) ? (
+                    <div className="col">
+                      {
+                        (body?.covered) ? (
+                          <p className="text-body-tertiary">Covered in the previous articles.</p>
+                        ) : (
+                          <p className="text-body-tertiary">No links available yet!</p>
+                        )
+                      }
+                    </div>
+                  ) : (
+
+                    body.resources.map(({ title, url }, index) => (
+                      <div className="col" key={index}>
+                        <a
+                          target="_blank"
+                          href={url}
+                          rel="noreferrer"
+                          className="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover"
+                        >
+                          {title}
+                        </a>
+                      </div>
+                    ))
+                  )
+                }
               </div>
             </div>
           ) : (

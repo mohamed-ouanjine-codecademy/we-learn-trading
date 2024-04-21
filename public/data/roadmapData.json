@@ -11,8 +11,9 @@
         ]
       },
       "Basic terminology (stocks, exchanges, indices)": {
-        "description": "(covered in the previous article)",
-        "resources": []
+        "description": "",
+        "resources": [],
+        "covered": true
       }
     },
     "Participants and their roles": {
