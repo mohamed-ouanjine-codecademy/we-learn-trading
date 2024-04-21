@@ -38,13 +38,15 @@ function AccordionItem({ header, body }) {
                 {
                   (body.resources.length === 0) ? (
                     <div className="col">
-                      {
-                        (body?.covered) ? (
-                          <p className="text-body-tertiary">Covered in the previous articles.</p>
-                        ) : (
-                          <p className="text-body-tertiary">No links available yet!</p>
-                        )
-                      }
+                      <p className="text-body-tertiary">
+                        {
+                          (body?.covered) ? (
+                            'Covered in the previous articles.'
+                          ) : (
+                            'No links available yet!'
+                          )
+                        }
+                      </p>
                     </div>
                   ) : (
 
