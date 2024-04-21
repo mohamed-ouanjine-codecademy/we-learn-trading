@@ -40,11 +40,7 @@ function AccordionItem({ header, body }) {
                     <div className="col">
                       <p className="text-body-tertiary">
                         {
-                          (body?.covered) ? (
-                            'Covered in the previous articles.'
-                          ) : (
-                            'No links available yet!'
-                          )
+                          (body?.covered) ? 'Covered in the previous articles.' : 'No links available yet!'
                         }
                       </p>
                     </div>
