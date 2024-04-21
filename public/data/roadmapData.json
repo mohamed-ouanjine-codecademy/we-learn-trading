@@ -117,7 +117,20 @@
       },
       "Bonds": {
         "description": "Types (government, corporate), yield, credit rating",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Bond: Financial Meaning With Examples and How They Are Priced",
+            "url": "https://www.investopedia.com/terms/b/bond.asp"
+          },
+          {
+            "title": "Investopedia - Bond Yield: What It Is, Why It Matters, and How It's Calculated",
+            "url": "https://www.investopedia.com/terms/b/bond-yield.asp"
+          },
+          {
+            "title": "Investopedia - Credit Rating: Definition and Importance to Investors",
+            "url": "https://www.investopedia.com/terms/c/creditrating.asp"
+          }
+        ]
       },
       "Commodities": {
         "description": "Categories (agricultural, energy, metals), futures contracts",
