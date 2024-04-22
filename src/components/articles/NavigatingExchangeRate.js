@@ -14,7 +14,7 @@ function NavigatingExchangeRate() {
       <p>As you saw there is an auto conversion on Chrome but not on Edge, so pay attention to it while reading this type of articles.</p>
 
       <h2>Why Hovering Matters</h2>
-      <p>On some financial websites, the displayed exchange rate, such as "$1.07," might require you to hover your mouse over the number to see what this actually represents in another currency, such as euros. This feature is often used to keep the interface clean or to provide a quick overview while offering more detailed information on demand.</p>
+      <p>On some financial websites, the displayed exchange rate, such as "$1.07," might require you to hover your mouse over the number to see what this actually represents in another currency, such as €1. This feature is often used to keep the interface clean or to provide a quick overview while offering more detailed information on demand.</p>
 
       <h2>Step-by-Step Guide to Getting Accurate Exchange Rates</h2>
       <ol>
