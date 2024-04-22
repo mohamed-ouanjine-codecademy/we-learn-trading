@@ -1,0 +1,26 @@
+.article {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.6;
+  font-family: Arial, sans-serif;
+}
+
+.article h1, .article h2 {
+  color: #333;
+}
+
+.article p, .article ol {
+  color: #666;
+  font-size: 1.15rem;
+
+}
+
+.article a {
+  text-decoration: none;
+  color: blue;
+}
+
+.article a:hover {
+  text-decoration: underline;
+}

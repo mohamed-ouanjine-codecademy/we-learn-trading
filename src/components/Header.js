@@ -15,6 +15,9 @@ const Header = () => {
           <li className="nav-item">
             <NavLink className={`nav-link ${({ isActive }) => isActive && 'active'}`} to="./resources">Resources</NavLink>
           </li>
+          <li className="nav-item">
+            <NavLink className={`nav-link ${({ isActive }) => isActive && 'active'}`} to="./articles">Articles</NavLink>
+          </li>
         </ul>
       </header>
     </>
