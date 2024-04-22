@@ -6,7 +6,7 @@ function NavigatingExchangeRate() {
       <h1>Navigating Exchange Rates Online: A Quick Guide to Uncovering the Real Value</h1>
       <p>When reading financial articles or checking currency conversions online, it’s essential to ensure you're getting accurate information. Sometimes, the figures you see might not tell the whole story without a little extra digging. This short guide will show you how to uncover the actual exchange rates on websites that require hovering to see detailed information.</p>
 
-      <p>Here is how it works.</p>
+      <p>You should hover over the price to see its real value.</p>
       <video width="100%" controls>
         <source src="/videos/navigating-exchange-rate.mp4" type="video/mp4" />
         Your browser does not support the video tag.
