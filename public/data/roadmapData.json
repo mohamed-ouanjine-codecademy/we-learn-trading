@@ -135,7 +135,20 @@
       },
       "Commodities": {
         "description": "Categories (agricultural, energy, metals), futures contracts",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - What Are Commodities and Understanding Their Role in the Stock Market",
+            "url": "https://www.investopedia.com/terms/c/commodity.asp"
+          },
+          {
+            "title": "Investopedia - Commodities Trading: An Overview",
+            "url": "https://www.investopedia.com/investing/commodities-trading-overview"
+          },
+          {
+            "title": "Investopedia - What Is Futures Trading?",
+            "url": "https://www.investopedia.com/terms/f/futures.asp"
+          }
+        ]
       },
       "Currencies": {
         "description": "Major vs. minor pairs, exchange rates, forex market",
