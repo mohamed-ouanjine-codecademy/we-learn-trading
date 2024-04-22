@@ -20,7 +20,7 @@ function NavigatingExchangeRate() {
       <ol>
         <li><strong>Locate the Displayed Currency Value:</strong> As you browse the website, identify the currency values displayed in the articles or data charts.</li>
         <li><strong>Hover Over the Value:</strong> Move your cursor over the displayed exchange rate. Wait for a second or two for a tooltip or a small pop-up to appear.</li>
-        <li><strong>Read the Tooltip Carefully:</strong> The tooltip should reveal the true value or a more detailed explanation of the conversion. For example, hovering over "$1.07" might show that this equals "1 EUR."</li>
+        <li><strong>Read the Tooltip Carefully:</strong> The tooltip should reveal the true value or a more detailed explanation of the conversion. For example, hovering over "$1.07" might show that this equals "1-EUR."</li>
         <li><strong>Use This Information Wisely:</strong> Now that you know the actual exchange rate, you can use this information for more accurate financial planning, trading, or analysis.</li>
       </ol>
 
