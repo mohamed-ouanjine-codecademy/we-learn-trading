@@ -64,7 +64,7 @@ function Resources() {
                     strategies.</p>
                 </li>
                 <li>
-                  <a href="https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp" target="_blank">
+                  <a href="https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp" target="_blank" rel="noreferrer">
                   Top 7 Books to Learn Technical Analysis
                   </a>
                 </li>
