@@ -65,7 +65,7 @@ function Resources() {
                 </li>
                 <li>
                   <a href="https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp" target="_blank">
-                    https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp
+                  Top 7 Books to Learn Technical Analysis
                   </a>
                 </li>
               </ul>
