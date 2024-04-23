@@ -152,7 +152,28 @@
       },
       "Currencies": {
         "description": "Major vs. minor pairs, exchange rates, forex market",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Currency: What It Is, How It Works, and How It Relates to Money",
+            "url": "https://www.investopedia.com/terms/c/currency.asp"
+          },
+          {
+            "title": "Investopedia - What Is a Currency Pair? Major, Minor, and Exotic Examples",
+            "url": "https://www.investopedia.com/terms/c/currencypair.asp"
+          },
+          {
+            "title": "Investopedia - Exchange Rates: What They Are, How They Work, Why They Fluctuate",
+            "url": "https://www.investopedia.com/terms/e/exchangerate.asp"
+          },
+          {
+            "title": "Investopedia - Forex (FX): Definition, How to Trade Currencies, and Examples",
+            "url": "https://www.investopedia.com/terms/f/forex.asp"
+          },
+          {
+            "title": "Investopedia - Foreign Exchange Market: How It Works, History, and Pros and Cons",
+            "url": "https://www.investopedia.com/terms/forex/f/foreign-exchange-markets.asp"
+          }
+        ]
       }
     }
   },
