@@ -63,6 +63,11 @@ function Resources() {
                   <p>“Trading for a Living” by Alexander Elder: Covers trading psychology, risk management, and trading
                     strategies.</p>
                 </li>
+                <li>
+                  <a href="https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp" target="_blank">
+                    https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp
+                  </a>
+                </li>
               </ul>
               <h2 id="online-forums-and-communities">Online Forums and Communities:</h2>
               <ul>
