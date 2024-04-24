@@ -181,7 +181,13 @@
     "Introduction to technical analysis": {
       "Definition, objectives, and principles": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Technical Analysis: What It Is and How to Use It in Investing",
+            "url": "https://www.investopedia.com/terms/t/technicalanalysis.asp"
+          }
+          
+        ]
       },
       "Comparison with fundamental analysis": {
         "description": "",
