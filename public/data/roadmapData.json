@@ -191,7 +191,13 @@
       },
       "Comparison with fundamental analysis": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Fundamental vs. Technical Analysis: What's the Difference?",
+            "url": "https://www.investopedia.com/ask/answers/difference-between-fundamental-and-technical-analysis/"
+          }
+
+        ]
       }
     },
     "History and evolution": {
