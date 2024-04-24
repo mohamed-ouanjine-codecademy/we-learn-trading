@@ -196,14 +196,27 @@
             "title": "Investopedia - Fundamental vs. Technical Analysis: What's the Difference?",
             "url": "https://www.investopedia.com/ask/answers/difference-between-fundamental-and-technical-analysis/"
           }
-
+          
         ]
       }
     },
     "History and evolution": {
       "Origins of technical analysis": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - A Brief History of Technical Analysis",
+            "url": "https://www.investopedia.com/terms/t/technical-analysis-of-stocks-and-trends.asp#toc-a-brief-history-of-technical-analysis"
+          },
+          {
+            "title": "Investopedia - Who Was Charles Dow?",
+            "url": "https://www.investopedia.com/articles/financial-theory/08/charles-dow.asp"
+          },
+          {
+            "title": "Investopedia - The Pioneers of Technical Analysis",
+            "url": "https://www.investopedia.com/articles/financial-theory/10/pioneers-technical-analysis.asp"
+          }
+        ]
       },
       "Evolution of charting methods and tools": {
         "description": "",
