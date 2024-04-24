@@ -227,7 +227,13 @@
     "Key principles and assumptions": {
       "Efficient market hypothesis": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Efficient Market Hypothesis (EMH): Definition and Critique",
+            "url": "https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp"
+          }
+
+        ]
       },
       "Price discounts all information": {
         "description": "",
