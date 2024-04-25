@@ -325,7 +325,12 @@
       },
       "Significance of candlestick patterns in technical analysis": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - What Is a Candlestick Pattern?",
+            "url": "https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-candlestick-patterns.asp"
+          }
+        ]
       }
     },
     "Single candlestick patterns": {
