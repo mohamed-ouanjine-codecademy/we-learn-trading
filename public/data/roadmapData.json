@@ -249,7 +249,7 @@
         ]
       },
       "Patterns repeat over time": {
-        "description": "The same as the previous article.",
+        "description": "",
         "resources": [],
         "covered": true
       }
@@ -257,7 +257,20 @@
     "Price charts and timeframes": {
       "Types of price charts": {
         "description": "Line, bar, candlestick",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Line Chart: Definition, Types, Examples",
+            "url": "https://www.investopedia.com/terms/l/linechart.asp"
+          },
+          {
+            "title": "Investopedia - Bar Chart: Definition, How Analysts Use Them, and Example",
+            "url": "https://www.investopedia.com/terms/b/barchart.asp"
+          },
+          {
+            "title": "Investopedia - Understanding Basic Candlestick Charts",
+            "url": "https://www.investopedia.com/trading/candlestick-charting-what-is-it/"
+          }
+        ]
       },
       "Importance of timeframes": {
         "description": "Intraday, daily, weekly, monthly",
