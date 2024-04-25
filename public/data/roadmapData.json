@@ -312,7 +312,16 @@
     "Basics of candlestick analysis": {
       "Anatomy of a candlestick (body, wick/shadow)": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Real Body: Meaning, Example, Limitations",
+            "url": "https://www.investopedia.com/terms/r/realbody.asp"
+          },
+          {
+            "title": "Investopedia - Shadow (Candle Wick) Definition and Meaning for Stock Prices",
+            "url": "https://www.investopedia.com/terms/s/shadow.asp"
+          }
+        ]
       },
       "Significance of candlestick patterns in technical analysis": {
         "description": "",
