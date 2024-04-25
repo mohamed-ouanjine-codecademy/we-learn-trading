@@ -274,7 +274,24 @@
       },
       "Importance of timeframes": {
         "description": "Intraday, daily, weekly, monthly",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Multiple Time Frames Can Multiply Returns",
+            "url": "https://www.investopedia.com/articles/trading/07/timeframes.asp"
+          },
+          {
+            "title": "Investopedia - Intraday: Definition, Intraday Trading, and Intraday Strategies",
+            "url": "https://www.investopedia.com/terms/i/intraday.asp"
+          },
+          {
+            "title": "Investopedia - Daily Chart Definition, Uses in Trading Strategies",
+            "url": "https://www.investopedia.com/terms/d/dailychart.asp"
+          },
+          {
+            "title": "Investopedia - Weekly Chart: Definition, Uses, Advantages, Vs. Daily or Monthly",
+            "url": "https://www.investopedia.com/terms/w/weeklychart.asp"
+          }
+        ]
       },
       "Charting platforms and software": {
         "description": "",
