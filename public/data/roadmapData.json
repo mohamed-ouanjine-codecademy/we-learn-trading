@@ -295,7 +295,16 @@
       },
       "Charting platforms and software": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - What Is a Trading Platform? Definition, Examples, and Features",
+            "url": "https://www.investopedia.com/terms/t/trading-platform.asp"
+          },
+          {
+            "title": "Investopedia - Trading Software: Meaning, Types, Examples",
+            "url": "https://www.investopedia.com/terms/t/trading-software.asp"
+          }
+        ]
       }
     }
   },
