@@ -205,7 +205,7 @@
         "description": "",
         "resources": [
           {
-            "title": "Investopedia - A Brief History of Technical Analysis",
+            "title": "Investopedia - Technical Analysis of Stocks and Trends Definition > A Brief History of Technical Analysis",
             "url": "https://www.investopedia.com/terms/t/technical-analysis-of-stocks-and-trends.asp#toc-a-brief-history-of-technical-analysis"
           },
           {
@@ -239,12 +239,19 @@
         ]
       },
       "Price discounts all information": {
-        "description": "",
-        "resources": []
+        "description": "Read just this part of the article.",
+        "resources": [
+          {
+            "title": "Investopedia - Technical Analysis: What It Is and How to Use It in Investing > Underlying Assumptions of Technical Analysis",
+            "url": "https://www.investopedia.com/terms/t/technicalanalysis.asp#toc-underlying-assumptions-of-technical-analysis"
+          }
+
+        ]
       },
       "Patterns repeat over time": {
-        "description": "",
-        "resources": []
+        "description": "The same as the previous article.",
+        "resources": [],
+        "covered": true
       }
     },
     "Price charts and timeframes": {
