@@ -52,9 +52,11 @@ function Resources() {
               <h2 id="books">Books:</h2>
               <ul>
                 <li>
-                  <a href="https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp" target="_blank" rel="noreferrer">
-                  Top 7 Books to Learn Technical Analysis
-                  </a>
+                  <p>
+                    <a href="https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp" target="_blank" rel="noreferrer">
+                      Top 7 Books to Learn Technical Analysis
+                    </a>
+                  </p>
                 </li>
                 <li>
                   <p>“Technical Analysis of the Financial Markets” by John J. Murphy: A comprehensive guide to technical
