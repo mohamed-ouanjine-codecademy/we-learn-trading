@@ -362,12 +362,16 @@
             "title": "Investopedia - Hammer Candlestick: What It Is and How Investors Use It",
             "url": "https://www.investopedia.com/terms/h/hammer.asp"
           }
-
         ]
       },
       "Hanging man": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Hanging Man Candlestick Definition and Tactics",
+            "url": "https://www.investopedia.com/terms/h/hangingman.asp"
+          }
+        ]
       },
       "Shooting star": {
         "description": "",
