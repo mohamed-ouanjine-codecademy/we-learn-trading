@@ -357,7 +357,13 @@
       },
       "Hammer": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Hammer Candlestick: What It Is and How Investors Use It",
+            "url": "https://www.investopedia.com/terms/h/hammer.asp"
+          }
+
+        ]
       },
       "Hanging man": {
         "description": "",
