@@ -336,7 +336,24 @@
     "Single candlestick patterns": {
       "Doji": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - What Is a Doji Candle Pattern, and What Does It Tell You?",
+            "url": "https://www.investopedia.com/terms/d/doji.asp"
+          },
+          {
+            "title": "Investopedia - Gravestone Doji: Definition, How to Trade It, and Example",
+            "url": "https://www.investopedia.com/terms/g/gravestone-doji.asp"
+          },
+          {
+            "title": "Investopedia - Long-Legged Doji: Definition, Significance, and How to Trade",
+            "url": "https://www.investopedia.com/terms/l/long-legged-doji.asp"
+          },
+          {
+            "title": "Investopedia - Doji Dragonfly Candlestick: What It Is, What It Means, Examples",
+            "url": "https://www.investopedia.com/terms/d/dragonfly-doji.asp"
+          }
+        ]
       },
       "Hammer": {
         "description": "",
