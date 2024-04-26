@@ -375,7 +375,12 @@
       },
       "Shooting star": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Shooting Star: What It Means in Stock Trading, With an Example",
+            "url": "https://www.investopedia.com/terms/s/shootingstar.asp"
+          }
+        ]
       }
     },
     "Multiple candlestick patterns": {
