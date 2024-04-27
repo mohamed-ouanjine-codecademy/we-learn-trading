@@ -416,7 +416,16 @@
       },
       "Morning/evening star": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Morning Stars: How to Trade the Morning Star Candlestick Pattern",
+            "url": "https://www.investopedia.com/terms/m/morningstar.asp"
+          },
+          {
+            "title": "Investopedia - Evening Star Pattern: What It Is, What It Means, and Example Chart",
+            "url": "https://www.investopedia.com/terms/e/eveningstar.asp"
+          }
+        ]
       }
     },
     "Interpretation and significance": {
