@@ -453,7 +453,24 @@
     "Types of technical indicators": {
       "Trend-following indicators": {
         "description": "Moving averages, MACD",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Moving Average (MA): Purpose, Uses, Formula, and Examples",
+            "url": "https://www.investopedia.com/terms/m/movingaverage.asp"
+          },
+          {
+            "title": "Investopedia - Simple Moving Average (SMA): What It Is and the Formula",
+            "url": "https://www.investopedia.com/terms/s/sma.asp"
+          },
+          {
+            "title": "Investopedia - What is EMA? How to Use Exponential Moving Average With Formula",
+            "url": "https://www.investopedia.com/terms/e/ema.asp"
+          },
+          {
+            "title": "Investopedia - How to Use a Moving Average to Buy Stocks",
+            "url": "https://www.investopedia.com/articles/active-trading/052014/how-use-moving-average-buy-stocks.asp"
+          }
+        ]
       },
       "Oscillators": {
         "description": "RSI, Stochastic oscillator",
