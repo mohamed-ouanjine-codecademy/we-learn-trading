@@ -399,7 +399,20 @@
       },
       "Harami": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Bullish Harami: Definition in Trading and Other Patterns",
+            "url": "https://www.investopedia.com/terms/b/bullishharami.asp"
+          },
+          {
+            "title": "Investopedia - Bearish Harami: Definition and Trading Strategies",
+            "url": "https://www.investopedia.com/terms/b/bearishharami.asp"
+          },
+          {
+            "title": "Investopedia - Harami Cross: Definition, Causes, Use in Trading, and Example",
+            "url": "https://www.investopedia.com/terms/h/haramicross.asp"
+          }
+        ]
       },
       "Morning/evening star": {
         "description": "",
