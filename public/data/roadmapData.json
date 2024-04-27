@@ -386,7 +386,16 @@
     "Multiple candlestick patterns": {
       "Engulfing patterns": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Bullish Engulfing Pattern: Definition, Example, and What It Means",
+            "url": "https://www.investopedia.com/terms/b/bullishengulfingpattern.asp"
+          },
+          {
+            "title": "Investopedia - Bearish Engulfing Pattern: Definition and Example of How To Use",
+            "url": "https://www.investopedia.com/terms/b/bearishengulfingp.asp"
+          }
+        ]
       },
       "Harami": {
         "description": "",
