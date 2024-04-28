@@ -482,7 +482,20 @@
       },
       "Oscillators": {
         "description": "RSI, Stochastic oscillator",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Relative Strength Index (RSI) Indicator Explained With Formula",
+            "url": "https://www.investopedia.com/terms/r/rsi.asp"
+          },
+          {
+            "title": "Investopedia - RSI Indicator: Buy and Sell Signals",
+            "url": "https://www.investopedia.com/articles/active-trading/042114/overbought-or-oversold-use-relative-strength-index-find-out.asp"
+          },
+          {
+            "title": "Investopedia - Best Indicators to Use With RSI",
+            "url": "https://www.investopedia.com/ask/answers/012915/what-are-best-technical-indicators-complement-relative-strength-index-rsi.asp"
+          }
+        ]
       },
       "Volume-based indicators": {
         "description": " OBV, Chaikin Money Flow",
