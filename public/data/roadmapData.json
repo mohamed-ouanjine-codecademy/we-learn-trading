@@ -477,6 +477,18 @@
           {
             "title": "Investopedia - How to Trade the MACD",
             "url": "https://www.investopedia.com/articles/forex/05/macddiverge.asp"
+          },
+          {
+            "title": "Investopedia - MACD: A Primer",
+            "url": "https://www.investopedia.com/trading/macd/"
+          },
+          {
+            "title": "Investopedia - Spotting Trend Reversals With MACD",
+            "url": "https://www.investopedia.com/articles/trading/09/spotting-trend-reversals-macd.asp"
+          },
+          {
+            "title": "Investopedia - MACD Histogram Helps Determine Trend Changes",
+            "url": "https://www.investopedia.com/articles/technical/091001.asp"
           }
         ]
       },
@@ -494,6 +506,10 @@
           {
             "title": "Investopedia - Best Indicators to Use With RSI",
             "url": "https://www.investopedia.com/ask/answers/012915/what-are-best-technical-indicators-complement-relative-strength-index-rsi.asp"
+          },
+          {
+            "title": "Investopedia - How Do the MACD and RSI Indicators Differ?",
+            "url": "https://www.investopedia.com/ask/answers/122214/what-are-main-differences-between-moving-average-convergence-divergence-macd-relative-strength-index.asp"
           }
         ]
       },
@@ -505,7 +521,9 @@
     "Application of technical indicators": {
       "Identifying trends, momentum, and overbought/oversold conditions": {
         "description": "",
-        "resources": []
+        "resources": [
+
+        ]
       },
       "Generating buy/sell signals and interpreting indicator crossovers": {
         "description": "",
