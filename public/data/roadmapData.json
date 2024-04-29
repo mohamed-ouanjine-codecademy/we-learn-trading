@@ -587,14 +587,22 @@
             "title": "Investopedia - Double Top and Bottom Patterns Defined, Plus How to Use Them",
             "url": "https://www.investopedia.com/terms/d/double-top-and-bottom.asp"
           }
-
         ]
       }
     },
     "Continuation patterns": {
       "Flags": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Continuation Patterns: An Introduction",
+            "url": "https://www.investopedia.com/trading/continuation-patterns-introduction/"
+          },
+          {
+            "title": "Investopedia - Flag Definition",
+            "url": "https://www.investopedia.com/terms/f/flag.asp"
+          }
+        ]
       },
       "Pennants": {
         "description": "",
