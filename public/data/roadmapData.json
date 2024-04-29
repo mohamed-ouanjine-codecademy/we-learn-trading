@@ -527,7 +527,16 @@
       },
       "Volume-based indicators": {
         "description": " OBV, Chaikin Money Flow",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - On-Balance Volume (OBV): Definition, Formula, and Uses As Indicator",
+            "url": "https://www.investopedia.com/terms/o/onbalancevolume.asp"
+          },
+          {
+            "title": "Investopedia - On-Balance Volume Reveals Market Player Strategy",
+            "url": "https://www.investopedia.com/articles/active-trading/021115/uncover-market-sentiment-onbalance-volume-obv.asp"
+          }
+        ]
       }
     },
     "Application of technical indicators": {
