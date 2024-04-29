@@ -555,7 +555,6 @@
             "title": "Investopedia - Trend Trading: The 4 Most Common Indicators",
             "url": "https://www.investopedia.com/articles/active-trading/041814/four-most-commonlyused-indicators-trend-trading.asp"
           }
-
         ],
         "covered": true
       },
@@ -570,7 +569,16 @@
     "Classical chart patterns": {
       "Head and shoulders": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - What Is a Head and Shoulders Chart Pattern in Technical Analysis?",
+            "url": "https://www.investopedia.com/terms/h/head-shoulders.asp"
+          },
+          {
+            "title": "Investopedia - How to Trade the Head and Shoulders Pattern",
+            "url": "https://www.investopedia.com/articles/technical/121201.asp"
+          }
+        ]
       },
       "Double tops/bottoms": {
         "description": "",
