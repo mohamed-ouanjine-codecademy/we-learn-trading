@@ -29,7 +29,7 @@ function AccordionItem({ header, body }) {
                 (body.description) && (
                   <div className="row">
                     <div className="col">
-                      <p className="mb-3">{body.description}</p>
+                      <p className="mb-3 text-secondary">{body.description}</p>
                     </div>
                   </div>
                 )
