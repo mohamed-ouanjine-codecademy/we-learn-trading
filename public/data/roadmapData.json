@@ -535,14 +535,28 @@
           {
             "title": "Investopedia - On-Balance Volume Reveals Market Player Strategy",
             "url": "https://www.investopedia.com/articles/active-trading/021115/uncover-market-sentiment-onbalance-volume-obv.asp"
+          },
+          {
+            "title": "Investopedia - Money Flow: Definition, Calculation, Uses in Trading",
+            "url": "https://www.investopedia.com/terms/m/moneyflow.asp"
+          },
+          {
+            "title": "Investopedia - Money Flow: The Basics",
+            "url": "https://www.investopedia.com/articles/technical/03/072303.asp"
           }
         ]
       }
     },
     "Application of technical indicators": {
       "Identifying trends, momentum, and overbought/oversold conditions": {
-        "description": "",
-        "resources": [],
+        "description": "I think this was covered in the previous articles, but you can read this article too.",
+        "resources": [
+          {
+            "title": "Investopedia - Trend Trading: The 4 Most Common Indicators",
+            "url": "https://www.investopedia.com/articles/active-trading/041814/four-most-commonlyused-indicators-trend-trading.asp"
+          }
+
+        ],
         "covered": true
       },
       "Generating buy/sell signals and interpreting indicator crossovers": {
