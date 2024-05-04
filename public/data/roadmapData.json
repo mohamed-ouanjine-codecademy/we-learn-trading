@@ -618,7 +618,12 @@
       },
       "Pennants": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - What Is a Pennant Chart Pattern in Technical Analysis?",
+            "url": "https://www.investopedia.com/terms/p/pennant.asp"
+          }
+      ]
       },
       "Rectangles": {
         "description": "",
