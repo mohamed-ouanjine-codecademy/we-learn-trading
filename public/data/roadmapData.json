@@ -623,11 +623,24 @@
             "title": "Investopedia - What Is a Pennant Chart Pattern in Technical Analysis?",
             "url": "https://www.investopedia.com/terms/p/pennant.asp"
           }
-      ]
+        ]
       },
       "Rectangles": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - What Are Rectangles?",
+            "url": "https://www.investopedia.com/terms/r/rectangles.asp"
+          },
+          {
+            "title": "Investopedia - Rectangle: What it Means, How it Works, Examples",
+            "url": "https://www.investopedia.com/terms/r/rectangle.asp"
+          },
+          {
+            "title": "Investopedia - The Rectangle Formation",
+            "url": "https://www.investopedia.com/articles/trading/08/rectangle-formation.asp"
+          }
+        ]
       }
     },
     "Reversal patterns": {
