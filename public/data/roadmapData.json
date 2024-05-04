@@ -646,7 +646,16 @@
     "Reversal patterns": {
       "Cup and handle": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Cup and Handle Pattern: How to Trade and Target with an Example",
+            "url": "https://www.investopedia.com/terms/c/cupandhandle.asp"
+          },
+          {
+            "title": "Investopedia - New Ways To Trade the Cup and Handle Pattern",
+            "url": "https://www.investopedia.com/articles/active-trading/032415/new-ways-trade-cup-handle-pattern.asp"
+          }
+        ]
       },
       "Saucers": {
         "description": "",
