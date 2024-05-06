@@ -659,7 +659,24 @@
       },
       "Saucers": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia -Saucer: Meaning, Channels, Trading Signals ",
+            "url": "https://www.investopedia.com/terms/s/saucer.asp"
+          },
+          {
+            "title": "Investopedia - Rounding Bottom: Definition and How Pattern Is Used in Trading",
+            "url": "https://www.investopedia.com/terms/r/roundingbottom.asp"
+          },
+          {
+            "title": "Investopedia - Inverse Saucer",
+            "url": "https://www.investopedia.com/terms/i/inversesaucer.asp"
+          },
+          {
+            "title": "Investopedia - Rounding Top: What It Is and How It's Used",
+            "url": "https://www.investopedia.com/terms/r/roundingtop.asp"
+          }
+        ]
       }
     },
     "Triangle patterns": {
