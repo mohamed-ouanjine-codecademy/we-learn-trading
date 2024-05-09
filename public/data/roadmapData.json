@@ -721,9 +721,18 @@
       }
     },
     "Wedge patterns": {
-      "Rising": {
+      "Rising wedges": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - What Is a Wedge and What Are Falling and Rising Wedge Patterns?",
+            "url": "https://www.investopedia.com/terms/w/wedge.asp"
+          },
+          {
+            "title": "Investopedia - How to Recognize and Trade Rising Wedge Patterns",
+            "url": "https://www.investopedia.com/articles/trading/07/rising_wedge.asp"
+          }
+        ]
       },
       "Falling wedges": {
         "description": "",
