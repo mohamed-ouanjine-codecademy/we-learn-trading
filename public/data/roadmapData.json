@@ -736,7 +736,8 @@
       },
       "Falling wedges": {
         "description": "",
-        "resources": []
+        "resources": [],
+        "covered": true
       }
     }
   },
