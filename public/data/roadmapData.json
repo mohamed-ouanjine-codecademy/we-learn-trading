@@ -781,11 +781,29 @@
     "Position sizing and leverage": {
       "Calculating position size based on risk tolerance and account size": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Position Sizing in Investment: Control Risk, Maximize Returns",
+            "url": "https://www.investopedia.com/terms/p/positionsizing.asp"
+          },
+          {
+            "title": "Investopedia - Position Sizing: The Way to Profit in Forex",
+            "url": "https://www.investopedia.com/articles/forex/10/position-sizing-forex.asp"
+          },
+          {
+            "title": "Investopedia - Risk/Reward Ratio: What It Is, How Stock Investors Use It",
+            "url": "https://www.investopedia.com/terms/r/riskrewardratio.asp"
+          }
+        ]
       },
       "Understanding leverage and margin requirements": {
         "description": "",
-        "resources": []
+        "resources": [  
+          {
+            "title": "Investopedia - ",
+            "url": ""
+          }
+        ]
       }
     },
     "Setting stop-loss orders": {
