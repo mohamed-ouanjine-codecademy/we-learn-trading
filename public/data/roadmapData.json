@@ -749,7 +749,16 @@
       },
       "Minimizing losses and controlling risk exposure": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - The Art of Cutting Your Losses",
+            "url": "https://www.investopedia.com/articles/stocks/08/capital-losses.asp"
+          },
+          {
+            "title": "Investopedia - Limiting Losses: What It Means, How It Works",
+            "url": "https://www.investopedia.com/investing/limiting-losses/"
+          }
+        ]
       }
     },
     "Position sizing and leverage": {
