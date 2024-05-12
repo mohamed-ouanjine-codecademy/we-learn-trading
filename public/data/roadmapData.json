@@ -745,11 +745,28 @@
     "Importance of risk management in trading": {
       "Preservation of capital": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Common Risk Management Strategies for Traders",
+            "url": "https://www.investopedia.com/ask/answers/050715/what-are-some-examples-risk-management-techniques.asp"
+          },
+          {
+            "title": "Investopedia - Risk Management Techniques for Active Traders",
+            "url": "https://www.investopedia.com/articles/trading/09/risk-management.asp"
+          },
+          {
+            "title": "Investopedia - Understanding Forex Risk Management",
+            "url": "https://www.investopedia.com/articles/forex/10/forex-risk-management.asp"
+          }
+        ]
       },
       "Minimizing losses and controlling risk exposure": {
         "description": "",
         "resources": [
+          {
+            "title": "Investopedia - Let Your Profits Run: Overview, History, Example",
+            "url": "https://www.investopedia.com/terms/l/letyourprofitrun.asp"
+          },
           {
             "title": "Investopedia - The Art of Cutting Your Losses",
             "url": "https://www.investopedia.com/articles/stocks/08/capital-losses.asp"
