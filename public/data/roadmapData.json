@@ -816,8 +816,20 @@
             "url": "https://www.investopedia.com/articles/forex/07/forex_leverage.asp"
           },
           {
-            "title": "Investopedia - ",
-            "url": ""
+            "title": "Investopedia - Margin and Margin Trading Explained Plus Advantages and Disadvantages",
+            "url": "https://www.investopedia.com/terms/m/margin.asp"
+          },
+          {
+            "title": "Investopedia - Margin Account: Definition, How It Works, and Example",
+            "url": "https://www.investopedia.com/terms/m/marginaccount.asp"
+          },
+          {
+            "title": "Investopedia - How Does Margin Trading in the Forex Market Work?",
+            "url": "https://www.investopedia.com/ask/answers/06/forexmargin.asp"
+          },
+          {
+            "title": "Investopedia - Margin Call: What It Is and How to Meet One with Examples",
+            "url": "https://www.investopedia.com/terms/m/margincall.asp"
           },
           {
             "title": "Investopedia - (add-on) How Much Leverage Is Right for You in Forex Trades",
@@ -833,7 +845,12 @@
     "Setting stop-loss orders": {
       "Types of stop-loss orders (market, limit, trailing)": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - ",
+            "url": ""
+          }
+        ]
       },
       "Determining appropriate stop-loss levels based on volatility and price action": {
         "description": "",
