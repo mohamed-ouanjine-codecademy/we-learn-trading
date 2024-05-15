@@ -776,6 +776,10 @@
             "url": "https://www.investopedia.com/investing/limiting-losses/"
           },
           {
+            "title": "Youtube - Risk Management in Forex (WARNING)",
+            "url": "https://www.youtube.com/watch?v=iKRzq64Dd-0"
+          },
+          {
             "title": "Investopedia - (add on) 10 Ways to Avoid Losing Money in Forex",
             "url": "https://www.investopedia.com/trading/avoid-losing-money-forex/"
           },
@@ -868,8 +872,16 @@
         "description": "",
         "resources": [
           {
-            "title": "Investopedia - ",
-            "url": ""
+            "title": "Youtube - The Best ATR Indicator for Setting Stoploss",
+            "url": "https://www.youtube.com/watch?v=dfijk5dkito"
+          },
+          {
+            "title": "Investopedia - Maximize Profits With Volatility Stops",
+            "url": "https://www.investopedia.com/articles/trading/09/volatility-stops.asp"
+          },
+          {
+            "title": "Investopedia - A Logical Method of Stop Placement",
+            "url": "https://www.investopedia.com/articles/trading/06/stopplacement.asp"
           }
         ]
       }
@@ -879,7 +891,12 @@
     "Basics of backtesting": {
       "Historical data analysis and data sources": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - ",
+            "url": ""
+          }
+        ]
       },
       "Importance of robust backtesting for strategy validation": {
         "description": "",
