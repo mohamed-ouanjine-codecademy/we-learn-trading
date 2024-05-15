@@ -855,14 +855,23 @@
         "description": "",
         "resources": [
           {
-            "title": "Investopedia - ",
-            "url": ""
+            "title": "Investopedia - Stop-Loss vs. Stop-Limit Order: Which Order to Use?",
+            "url": "https://www.investopedia.com/articles/active-trading/091813/which-order-use-stoploss-or-stoplimit-orders.asp"
+          },
+          {
+            "title": "Investopedia - What Is a Trailing Stop? Example and How to Use It",
+            "url": "https://www.investopedia.com/terms/t/trailingstop.asp"
           }
         ]
       },
       "Determining appropriate stop-loss levels based on volatility and price action": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - ",
+            "url": ""
+          }
+        ]
       }
     }
   },
