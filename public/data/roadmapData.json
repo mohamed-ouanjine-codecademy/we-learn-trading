@@ -893,14 +893,27 @@
         "description": "",
         "resources": [
           {
-            "title": "Investopedia - ",
-            "url": ""
+            "title": "Investopedia - Backtesting: Definition, How It Works, and Downsides",
+            "url": "https://www.investopedia.com/terms/b/backtesting.asp"
           }
         ]
       },
       "Importance of robust backtesting for strategy validation": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - The Importance of Backtesting Trading Strategies",
+            "url": "https://www.investopedia.com/articles/trading/05/030205.asp"
+          },
+          {
+            "title": "Investopedia - Backtesting and Forward Testing: The Importance of Correlation",
+            "url": "https://www.investopedia.com/articles/trading/10/backtesting-walkforward-important-correlation.asp"
+          },
+          {
+            "title": "Investopedia - ",
+            "url": ""
+          }
+        ]
       }
     },
     "Testing trading strategies": {
