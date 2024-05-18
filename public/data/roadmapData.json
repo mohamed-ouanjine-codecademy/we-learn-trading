@@ -908,10 +908,6 @@
           {
             "title": "Investopedia - Backtesting and Forward Testing: The Importance of Correlation",
             "url": "https://www.investopedia.com/articles/trading/10/backtesting-walkforward-important-correlation.asp"
-          },
-          {
-            "title": "Investopedia - ",
-            "url": ""
           }
         ]
       }
@@ -919,7 +915,12 @@
     "Testing trading strategies": {
       "Defining entry and exit criteria": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - ",
+            "url": ""
+          }
+        ]
       },
       "Assessing performance metrics (win rate, risk-reward ratio)": {
         "description": "",
