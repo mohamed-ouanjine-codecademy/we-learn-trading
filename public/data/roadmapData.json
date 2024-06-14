@@ -917,8 +917,12 @@
         "description": "",
         "resources": [
           {
-            "title": "Investopedia - ",
-            "url": ""
+            "title": "Investopedia - Investment Entry Point Definition and How to Optimize",
+            "url": "https://www.investopedia.com/terms/e/entry-point.asp"
+          },
+          {
+            "title": "Investopedia - Pinpoint Entry Points With Filters and Triggers",
+            "url": "https://www.investopedia.com/articles/trading/filters-and-triggers.asp"
           }
         ]
       },
