@@ -32,7 +32,7 @@ function RoadMap() {
         <div className='col'>
           <select value={selectedPlan} onChange={handlePlanChange} className="form-select">
             <option value="technicalAnalysis">Technical Analysis</option>
-            <option value="smc">Smart Money Concepts (SMC)</option>
+            <option value="smc">Smart Money Concept (SMC)</option>
           </select>
         </div>
       </div>
