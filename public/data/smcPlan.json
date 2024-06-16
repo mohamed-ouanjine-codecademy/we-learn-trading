@@ -1,6 +1,6 @@
 {
   "Phase 1: Introduction and Basics": {
-    "Week 1-2: Understanding Market Structure": {
+    "Understanding Market Structure": {
       "Market Phases": {
         "description": "Learn about accumulation, distribution, uptrends, and downtrends.",
         "resources": [
@@ -65,7 +65,7 @@
         ]
       }
     },
-    "Week 3-4: Introduction to Smart Money Concepts": {
+    "Introduction to Smart Money Concepts": {
       "Order Blocks": {
         "description": "Learn what order blocks are and how to identify them on charts.",
         "resources": [
@@ -108,7 +108,7 @@
     }
   },
   "Phase 2: Deep Dive into SMC": {
-    "Week 5-6: Advanced Market Structure and Order Blocks": {
+    "Advanced Market Structure and Order Blocks": {
       "Market Structure Analysis": {
         "description": "Dive deeper into understanding market structure shifts and trends.",
         "resources": [
@@ -136,7 +136,7 @@
         ]
       }
     },
-    "Week 7-8: Liquidity and Institutional Behavior": {
+    "Liquidity and Institutional Behavior": {
       "Liquidity and Manipulation": {
         "description": "Study how and why institutions create liquidity pools and conduct stop hunts.",
         "resources": [
@@ -166,7 +166,7 @@
     }
   },
   "Phase 3: Practical Application and Strategy Development": {
-    "Week 9-10: Strategy Formulation and Backtesting": {
+    "Strategy Formulation and Backtesting": {
       "Develop Your SMC Strategy": {
         "description": "Combine what you’ve learned into a coherent trading strategy.",
         "resources": [
@@ -194,7 +194,7 @@
         ]
       }
     },
-    "Week 11-12: Demo Trading and Refinement": {
+    "Demo Trading and Refinement": {
       "Demo Trading": {
         "description": "Start trading your strategy on a demo account.",
         "resources": [
@@ -224,7 +224,7 @@
     }
   },
   "Phase 4: Advanced Learning and Continuous Improvement": {
-    "Week 13-16: Continuous Learning and Real Trading": {
+    "Continuous Learning and Real Trading": {
       "Join Trading Communities": {
         "description": "Participate in SMC trading forums and groups.",
         "resources": [
