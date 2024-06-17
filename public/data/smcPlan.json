@@ -1,6 +1,6 @@
 {
   "Phase 1: Introduction and Basics": {
-    "Understanding Market Structure": {
+    "Week 1-2: Understanding Market Structure": {
       "Market Phases": {
         "description": "Learn about accumulation, distribution, uptrends, and downtrends.",
         "resources": [
@@ -65,7 +65,7 @@
         ]
       }
     },
-    "Introduction to Smart Money Concepts": {
+    "Week 3-4: Introduction to Smart Money Concepts": {
       "Order Blocks": {
         "description": "Learn what order blocks are and how to identify them on charts.",
         "resources": [
@@ -107,217 +107,178 @@
       }
     }
   },
-  "Phase 2: Deep Dive into SMC": {
-    "Advanced Market Structure and Order Blocks": {
-      "Market Structure Analysis": {
-        "description": "Dive deeper into understanding market structure shifts and trends.",
+  "Phase 2: Advanced Techniques and Strategies": {
+    "Week 5-6: Advanced Price Action Analysis": {
+      "Volume Analysis": {
+        "description": "Learn how to interpret volume in conjunction with price movements.",
         "resources": [
           {
-            "title": "Advanced Market Structure",
-            "url": "https://www.example.com/advanced-market-structure"
+            "title": "Volume Analysis in Trading",
+            "url": "https://www.example.com/volume-analysis"
           },
           {
-            "title": "YouTube - Market Structure Shifts",
+            "title": "YouTube - Volume Analysis Strategies",
             "url": "https://www.youtube.com/watch?v=example5"
           }
         ]
       },
-      "Refining Order Blocks": {
-        "description": "Learn to identify high-probability order blocks.",
+      "Market Manipulation Techniques": {
+        "description": "Understand how markets can be manipulated and how to spot manipulation.",
         "resources": [
           {
-            "title": "High-Probability Order Blocks",
-            "url": "https://www.example.com/high-probability-order-blocks"
+            "title": "Market Manipulation Explained",
+            "url": "https://www.example.com/market-manipulation"
           },
           {
-            "title": "YouTube - Refining Order Blocks",
+            "title": "YouTube - Detecting Market Manipulation",
             "url": "https://www.youtube.com/watch?v=example6"
           }
         ]
       }
     },
-    "Liquidity and Institutional Behavior": {
-      "Liquidity and Manipulation": {
-        "description": "Study how and why institutions create liquidity pools and conduct stop hunts.",
+    "Week 7-8: Advanced Order Flow Analysis": {
+      "Footprint Charts": {
+        "description": "Learn to read footprint charts to identify buying and selling activity.",
         "resources": [
           {
-            "title": "Institutional Trading and Liquidity",
-            "url": "https://www.example.com/institutional-trading-liquidity"
+            "title": "Footprint Chart Analysis",
+            "url": "https://www.example.com/footprint-charts"
           },
           {
-            "title": "YouTube - Liquidity Pools and Manipulation",
+            "title": "YouTube - Understanding Footprint Charts",
             "url": "https://www.youtube.com/watch?v=example7"
           }
         ]
       },
-      "Institutional Trading Strategies": {
-        "description": "Learn about the strategies institutions use and how to align with them.",
+      "Stop Hunts and Liquidity Runs": {
+        "description": "Study how stop hunts and liquidity runs are executed by institutional traders.",
         "resources": [
           {
-            "title": "Institutional Trading Strategies",
-            "url": "https://www.example.com/institutional-strategies"
+            "title": "Stop Hunts and Liquidity Runs",
+            "url": "https://www.example.com/stop-hunts-liquidity-runs"
           },
           {
-            "title": "Advanced Course - Institutional Trading",
-            "url": "https://www.example.com/institutional-trading-course"
-          }
-        ]
-      }
-    }
-  },
-  "Phase 3: Practical Application and Strategy Development": {
-    "Strategy Formulation and Backtesting": {
-      "Develop Your SMC Strategy": {
-        "description": "Combine what you’ve learned into a coherent trading strategy.",
-        "resources": [
-          {
-            "title": "SMC Strategy Development",
-            "url": "https://www.example.com/smc-strategy"
-          },
-          {
-            "title": "YouTube - Creating a Trading Strategy",
+            "title": "YouTube - Stop Hunts and Liquidity Runs Explained",
             "url": "https://www.youtube.com/watch?v=example8"
           }
         ]
-      },
-      "Backtesting": {
-        "description": "Use historical data to backtest your strategy.",
+      }
+    }
+  },
+  "Phase 3: Strategy Development and Implementation": {
+    "Week 9-10: Developing Your Trading Strategy": {
+      "Pattern Recognition": {
+        "description": "Learn to recognize and trade specific patterns identified in SMC methodology.",
         "resources": [
           {
-            "title": "Backtesting Tools and Techniques",
-            "url": "https://www.example.com/backtesting"
+            "title": "Pattern Recognition in Trading",
+            "url": "https://www.example.com/pattern-recognition"
           },
           {
-            "title": "YouTube - How to Backtest a Trading Strategy",
+            "title": "YouTube - Trading Pattern Recognition",
             "url": "https://www.youtube.com/watch?v=example9"
           }
         ]
-      }
-    },
-    "Demo Trading and Refinement": {
-      "Demo Trading": {
-        "description": "Start trading your strategy on a demo account.",
+      },
+      "Risk Management Strategies": {
+        "description": "Develop and implement effective risk management techniques.",
         "resources": [
           {
-            "title": "Best Demo Trading Platforms",
-            "url": "https://www.example.com/demo-trading-platforms"
+            "title": "Effective Risk Management in Trading",
+            "url": "https://www.example.com/risk-management"
           },
           {
-            "title": "YouTube - Demo Trading Guide",
+            "title": "YouTube - Risk Management Strategies",
             "url": "https://www.youtube.com/watch?v=example10"
           }
         ]
-      },
-      "Refinement": {
-        "description": "Adjust and refine your strategy based on demo trading results.",
+      }
+    },
+    "Week 11-12: Backtesting and Refinement": {
+      "Backtesting Your Strategy": {
+        "description": "Use historical data to test the effectiveness of your trading strategy.",
         "resources": [
           {
-            "title": "Strategy Refinement Techniques",
-            "url": "https://www.example.com/strategy-refinement"
+            "title": "Backtesting Strategies",
+            "url": "https://www.example.com/backtesting-strategies"
           },
           {
-            "title": "YouTube - Refining Your Trading Strategy",
+            "title": "YouTube - Backtesting Tips",
             "url": "https://www.youtube.com/watch?v=example11"
           }
         ]
-      }
-    }
-  },
-  "Phase 4: Advanced Learning and Continuous Improvement": {
-    "Continuous Learning and Real Trading": {
-      "Join Trading Communities": {
-        "description": "Participate in SMC trading forums and groups.",
+      },
+      "Trade Journaling": {
+        "description": "Maintain a trading journal to track and analyze your trades.",
         "resources": [
           {
-            "title": "Best Trading Communities",
-            "url": "https://www.example.com/trading-communities"
+            "title": "Trading Journal Template",
+            "url": "https://www.example.com/trading-journal-template"
           },
           {
-            "title": "YouTube - Top Trading Forums",
+            "title": "YouTube - Importance of Trading Journal",
             "url": "https://www.youtube.com/watch?v=example12"
           }
         ]
-      },
-      "Advanced Courses and Webinars": {
-        "description": "Attend advanced SMC courses and webinars.",
-        "resources": [
-          {
-            "title": "Advanced SMC Courses",
-            "url": "https://www.example.com/advanced-smc-courses"
-          },
-          {
-            "title": "Webinars on Smart Money Concepts",
-            "url": "https://www.example.com/smc-webinars"
-          }
-        ]
-      },
-      "Start Real Trading": {
-        "description": "Begin trading with real money, starting small.",
-        "resources": [
-          {
-            "title": "Transitioning from Demo to Real Trading",
-            "url": "https://www.example.com/demo-to-real-trading"
-          },
-          {
-            "title": "YouTube - Real Money Trading Tips",
-            "url": "https://www.youtube.com/watch?v=example13"
-          }
-        ]
       }
     }
   },
-  "Ongoing Activities": {
-    "Maintain a Trading Journal": {
-      "description": "Document every trade, including entry and exit points, rationale, and outcomes.",
-      "resources": [
-        {
-          "title": "How to Keep a Trading Journal",
-          "url": "https://www.example.com/trading-journal"
-        },
-        {
-          "title": "YouTube - Trading Journal Tips",
-          "url": "https://www.youtube.com/watch?v=example14"
-        }
-      ]
+  "Phase 4: Implementation and Continuous Improvement": {
+    "Week 13-14: Demo Trading and Real-Time Practice": {
+      "Demo Trading": {
+        "description": "Practice executing your strategy in a simulated trading environment.",
+        "resources": [
+          {
+            "title": "Demo Accounts",
+            "url": "https://www.example.com/demo-accounts"
+          },
+          {
+            "title": "YouTube - Demo Trading Tips",
+            "url": "https://www.youtube.com/watch?v=example13"
+          }
+        ]
+      },
+      "Continuous Learning": {
+        "description": "Stay updated with market developments and continue learning new concepts.",
+        "resources": [
+          {
+            "title": "ICT Community Forums",
+            "url": "https://www.example.com/community-forums"
+          },
+          {
+            "title": "YouTube - Continuous Learning in Trading",
+            "url": "https://www.youtube.com/watch?v=example14"
+          }
+        ]
+      }
     },
-    "Continuous Education": {
-      "description": "Stay updated with the latest market trends and SMC techniques.",
-      "resources": [
-        {
-          "title": "Top Trading Books",
-          "url": "https://www.example.com/trading-books"
-        },
-        {
-          "title": "YouTube - Latest Trading Strategies",
-          "url": "https://www.youtube.com/watch?v=example15"
-        }
-      ]
-    },
-    "Risk Management": {
-      "description": "Always adhere to strict risk management rules.",
-      "resources": [
-        {
-          "title": "Risk Management in Trading",
-          "url": "https://www.example.com/risk-management"
-        },
-        {
-          "title": "YouTube - Risk Management Strategies",
-          "url": "https://www.youtube.com/watch?v=example16"
-        }
-      ]
-    },
-    "Adapt and Evolve": {
-      "description": "Be prepared to adapt your strategy as market conditions change.",
-      "resources": [
-        {
-          "title": "Adapting to Market Conditions",
-          "url": "https://www.example.com/adapting-strategy"
-        },
-        {
-          "title": "YouTube - Evolving Your Trading Strategy",
-          "url": "https://www.youtube.com/watch?v=example17"
-        }
-      ]
+    "Week 15-16: Adaptation and Evolution": {
+      "Adapting Your Strategy": {
+        "description": "Be flexible in adjusting your strategy based on changing market conditions.",
+        "resources": [
+          {
+            "title": "Adapting to Market Conditions",
+            "url": "https://www.example.com/adapting-strategy"
+          },
+          {
+            "title": "YouTube - Evolving Your Trading Strategy",
+            "url": "https://www.youtube.com/watch?v=example15"
+          }
+        ]
+      },
+      "Continuous Improvement": {
+        "description": "Regularly review and improve your trading approach.",
+        "resources": [
+          {
+            "title": "Improving Your Trading Skills",
+            "url": "https://www.example.com/improving-skills"
+          },
+          {
+            "title": "YouTube - Continuous Improvement in Trading",
+            "url": "https://www.youtube.com/watch?v=example16"
+          }
+        ]
+      }
     }
   }
 }
