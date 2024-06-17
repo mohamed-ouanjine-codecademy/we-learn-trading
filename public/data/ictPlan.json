@@ -1,0 +1,251 @@
+{
+  "Phase 1: Foundation and Basics": {
+    "Week 1-2: Introduction to ICT and Market Basics": {
+      "Introduction to ICT Concepts": {
+        "description": "Understand the philosophy behind ICT and its unique approach to trading.",
+        "resources": [
+          {
+            "title": "ICT YouTube Channel (Michael J. Huddleston)",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          }
+        ]
+      },
+      "Market Structure Basics": {
+        "description": "Learn about market phases, support and resistance, and price action basics.",
+        "resources": [
+          {
+            "title": "Technical Analysis of the Financial Markets by John Murphy",
+            "url": "https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661"
+          }
+        ]
+      }
+    },
+    "Week 3-4: Price Action Fundamentals": {
+      "Candlestick Patterns": {
+        "description": "Study basic candlestick patterns and their meanings.",
+        "resources": [
+          {
+            "title": "Japanese Candlestick Charting Techniques by Steve Nison",
+            "url": "https://www.amazon.com/Japanese-Candlestick-Charting-Techniques-Second/dp/0735201811"
+          }
+        ]
+      },
+      "Market Structure": {
+        "description": "Learn to identify higher highs, higher lows, lower highs, and lower lows.",
+        "resources": [
+          {
+            "title": "ICT YouTube Videos on Market Structure",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          }
+        ]
+      }
+    }
+  },
+  "Phase 2: Core ICT Concepts": {
+    "Week 5-6: Institutional Order Flow": {
+      "Understanding Institutional Order Flow": {
+        "description": "Learn how institutions move the market and how to identify their footprints.",
+        "resources": [
+          {
+            "title": "ICT Videos on Institutional Order Flow",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          }
+        ]
+      },
+      "Order Blocks": {
+        "description": "Identify and understand order blocks and their significance.",
+        "resources": [
+          {
+            "title": "ICT YouTube Channel",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          }
+        ]
+      }
+    },
+    "Week 7-8: Liquidity Concepts": {
+      "Liquidity Pools": {
+        "description": "Study liquidity pools and how they affect price movements.",
+        "resources": [
+          {
+            "title": "ICT Lessons on Liquidity",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          }
+        ]
+      },
+      "Stop Hunts and Liquidity Runs": {
+        "description": "Learn how and why institutions perform stop hunts.",
+        "resources": [
+          {
+            "title": "ICT YouTube Channel",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          }
+        ]
+      }
+    }
+  },
+  "Phase 3: Advanced ICT Strategies": {
+    "Week 9-10: Advanced Market Structure Analysis": {
+      "Advanced Market Structure": {
+        "description": "Dive deeper into market structure shifts and identifying trends.",
+        "resources": [
+          {
+            "title": "ICT Advanced Market Structure Videos",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          }
+        ]
+      },
+      "Time and Price Theory": {
+        "description": "Understand the relationship between time and price in market movements.",
+        "resources": [
+          {
+            "title": "ICT Lessons on Time and Price Theory",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          }
+        ]
+      }
+    },
+    "Week 11-12: Key ICT Patterns and Setups": {
+      "ICT Pattern Recognition": {
+        "description": "Learn specific ICT patterns such as the ICT Killzones, Fair Value Gaps, and Optimal Trade Entry (OTE).",
+        "resources": [
+          {
+            "title": "ICT YouTube Channel",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          },
+          {
+            "title": "ICT Mentorship Programs",
+            "url": "https://www.innercircletrader.com"
+          }
+        ]
+      },
+      "Trade Setup and Execution": {
+        "description": "Understand how to set up and execute trades using ICT methodologies.",
+        "resources": [
+          {
+            "title": "ICT Trade Setup Videos",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          }
+        ]
+      }
+    }
+  },
+  "Phase 4: Practical Application and Strategy Development": {
+    "Week 13-14: Backtesting and Strategy Formulation": {
+      "Developing an ICT-Based Trading Strategy": {
+        "description": "Combine learned concepts into a coherent trading strategy.",
+        "resources": [
+          {
+            "title": "ICT Strategy Development Lessons",
+            "url": "https://www.youtube.com/user/InnerCircleTrader"
+          }
+        ]
+      },
+      "Backtesting Your Strategy": {
+        "description": "Use historical data to backtest your strategy.",
+        "resources": [
+          {
+            "title": "TradingView",
+            "url": "https://www.tradingview.com"
+          },
+          {
+            "title": "MetaTrader",
+            "url": "https://www.metatrader4.com"
+          }
+        ]
+      }
+    },
+    "Week 15-16: Demo Trading and Refinement": {
+      "Demo Trading": {
+        "description": "Start applying your strategy on a demo account to gain practical experience.",
+        "resources": [
+          {
+            "title": "Demo accounts on TradingView or MetaTrader",
+            "url": "https://www.tradingview.com"
+          },
+          {
+            "title": "MetaTrader",
+            "url": "https://www.metatrader4.com"
+          }
+        ]
+      },
+      "Refining Your Strategy": {
+        "description": "Analyze your trades and refine your strategy based on performance.",
+        "resources": [
+          {
+            "title": "Trading journals",
+            "url": "https://www.example.com/trading-journal"
+          },
+          {
+            "title": "ICT community feedback",
+            "url": "https://www.innercircletrader.com/community"
+          }
+        ]
+      }
+    }
+  },
+  "Ongoing Learning and Improvement": {
+    "Continuous Learning and Community Involvement": {
+      "Join ICT Communities": {
+        "description": "Participate in ICT-focused trading communities and forums.",
+        "resources": [
+          {
+            "title": "ICT Telegram groups",
+            "url": "https://t.me/ICT"
+          },
+          {
+            "title": "Trading forums",
+            "url": "https://www.forexfactory.com"
+          }
+        ]
+      },
+      "Attend Webinars and Advanced Courses": {
+        "description": "Attend ICT webinars and enroll in advanced courses to stay updated.",
+        "resources": [
+          {
+            "title": "ICT Mentorship Programs",
+            "url": "https://www.innercircletrader.com"
+          },
+          {
+            "title": "Paid ICT Courses",
+            "url": "https://www.innercircletrader.com/courses"
+          }
+        ]
+      }
+    },
+    "Maintain a Trading Journal": {
+      "description": "Document every trade, including entry and exit points, rationale, and outcomes.",
+      "resources": [
+        {
+          "title": "How to Keep a Trading Journal",
+          "url": "https://www.example.com/trading-journal"
+        },
+        {
+          "title": "YouTube - Trading Journal Tips",
+          "url": "https://www.youtube.com/watch?v=example14"
+        }
+      ]
+    },
+    "Continuous Risk Management": {
+      "description": "Always adhere to strict risk management rules.",
+      "resources": [
+        {
+          "title": "ICT Risk Management Lessons",
+          "url": "https://www.youtube.com/user/InnerCircleTrader"
+        }
+      ]
+    },
+    "Adapt and Evolve": {
+      "description": "Be prepared to adapt your strategy as market conditions change.",
+      "resources": [
+        {
+          "title": "Adapting to Market Conditions",
+          "url": "https://www.example.com/adapting-strategy"
+        },
+        {
+          "title": "YouTube - Evolving Your Trading Strategy",
+          "url": "https://www.youtube.com/watch?v=example17"
+        }
+      ]
+    }
+  }
+}
