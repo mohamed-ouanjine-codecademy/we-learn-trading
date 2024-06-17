@@ -27,7 +27,24 @@ function RoadMap() {
     <div className="container" style={{ minHeight: '100vh' }}>
       <div className='row mb-5'>
         <div className='col'>
-          <h1>{selectedPlan === 'technicalAnalysis' ? 'Technical Analysis Learning Plan' : 'SMC Learning Plan'}</h1>
+          <h1>
+            {
+              (() => {
+                switch (selectedPlan) {
+                  case 'technicalAnalysis':
+                    return 'Technical Analysis';
+                  case 'priceAction':
+                    return 'Price Action';
+                  case 'smc':
+                    return 'SMC (Smart Money Concept)';
+                  case 'ict':
+                    return 'ICT (Inner Circle Trader)';
+                  default:
+                    return '';
+                }
+              })()
+            }
+            Learning Plan</h1>
         </div>
         <div className='col'>
           <select value={selectedPlan} onChange={handlePlanChange} className="form-select">
