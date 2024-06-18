@@ -1,5 +1,275 @@
 {
-  "Coming soon...": {
-
+  "Phase 1: Introduction to Price Action": {
+    "Week 1-2: Basics of Price Action Trading": {
+      "Introduction to Price Action": {
+        "description": "Understand what Price Action trading is and its significance in the market.",
+        "resources": [
+          {
+            "title": "Price Action Trading Explained",
+            "url": "https://www.example.com/price-action-trading"
+          },
+          {
+            "title": "YouTube - What is Price Action Trading?",
+            "url": "https://www.youtube.com/watch?v=example1"
+          }
+        ]
+      },
+      "Basic Terminology": {
+        "description": "Learn basic terms such as support, resistance, trends, and candlesticks.",
+        "resources": [
+          {
+            "title": "Basic Trading Terminology",
+            "url": "https://www.example.com/basic-terminology"
+          },
+          {
+            "title": "Investopedia - Basic Trading Terms",
+            "url": "https://www.investopedia.com"
+          }
+        ]
+      }
+    }
+  },
+  "Phase 2: Core Price Action Concepts": {
+    "Week 3-4: Candlestick Patterns": {
+      "Understanding Candlesticks": {
+        "description": "Learn about different types of candlesticks and their interpretations.",
+        "resources": [
+          {
+            "title": "Japanese Candlestick Charting Techniques by Steve Nison",
+            "url": "https://www.amazon.com/Japanese-Candlestick-Charting-Techniques-Second/dp/0735201811"
+          },
+          {
+            "title": "YouTube - Candlestick Patterns Explained",
+            "url": "https://www.youtube.com/watch?v=example2"
+          }
+        ]
+      },
+      "Key Candlestick Patterns": {
+        "description": "Study important candlestick patterns like doji, hammer, and engulfing patterns.",
+        "resources": [
+          {
+            "title": "Key Candlestick Patterns",
+            "url": "https://www.example.com/key-candlestick-patterns"
+          },
+          {
+            "title": "YouTube - Top Candlestick Patterns",
+            "url": "https://www.youtube.com/watch?v=example3"
+          }
+        ]
+      }
+    },
+    "Week 5-6: Support and Resistance": {
+      "Identifying Support and Resistance": {
+        "description": "Learn how to identify and draw support and resistance levels on the chart.",
+        "resources": [
+          {
+            "title": "Support and Resistance Basics",
+            "url": "https://www.example.com/support-resistance"
+          },
+          {
+            "title": "YouTube - How to Draw Support and Resistance",
+            "url": "https://www.youtube.com/watch?v=example4"
+          }
+        ]
+      },
+      "Role of Support and Resistance": {
+        "description": "Understand the role of support and resistance in price action trading.",
+        "resources": [
+          {
+            "title": "The Role of Support and Resistance",
+            "url": "https://www.example.com/role-support-resistance"
+          },
+          {
+            "title": "YouTube - Understanding Support and Resistance",
+            "url": "https://www.youtube.com/watch?v=example5"
+          }
+        ]
+      }
+    }
+  },
+  "Phase 3: Advanced Price Action Techniques": {
+    "Week 7-8: Trend Analysis": {
+      "Identifying Trends": {
+        "description": "Learn how to identify and follow market trends.",
+        "resources": [
+          {
+            "title": "Trend Identification in Price Action",
+            "url": "https://www.example.com/trend-identification"
+          },
+          {
+            "title": "YouTube - How to Identify Market Trends",
+            "url": "https://www.youtube.com/watch?v=example6"
+          }
+        ]
+      },
+      "Trend Trading Strategies": {
+        "description": "Study different strategies to trade along with the market trend.",
+        "resources": [
+          {
+            "title": "Trend Trading Strategies",
+            "url": "https://www.example.com/trend-trading-strategies"
+          },
+          {
+            "title": "YouTube - Top Trend Trading Strategies",
+            "url": "https://www.youtube.com/watch?v=example7"
+          }
+        ]
+      }
+    },
+    "Week 9-10: Chart Patterns": {
+      "Reversal Patterns": {
+        "description": "Learn about chart patterns that indicate a potential reversal in trend.",
+        "resources": [
+          {
+            "title": "Reversal Chart Patterns",
+            "url": "https://www.example.com/reversal-patterns"
+          },
+          {
+            "title": "YouTube - Top Reversal Patterns",
+            "url": "https://www.youtube.com/watch?v=example8"
+          }
+        ]
+      },
+      "Continuation Patterns": {
+        "description": "Study patterns that suggest the continuation of the current trend.",
+        "resources": [
+          {
+            "title": "Continuation Chart Patterns",
+            "url": "https://www.example.com/continuation-patterns"
+          },
+          {
+            "title": "YouTube - Best Continuation Patterns",
+            "url": "https://www.youtube.com/watch?v=example9"
+          }
+        ]
+      }
+    }
+  },
+  "Phase 4: Practical Application and Strategy Development": {
+    "Week 11-12: Developing a Price Action Strategy": {
+      "Combining Concepts": {
+        "description": "Learn to combine candlestick patterns, support and resistance, and trends into a cohesive trading strategy.",
+        "resources": [
+          {
+            "title": "Developing a Price Action Strategy",
+            "url": "https://www.example.com/developing-strategy"
+          },
+          {
+            "title": "YouTube - Creating a Price Action Strategy",
+            "url": "https://www.youtube.com/watch?v=example10"
+          }
+        ]
+      },
+      "Backtesting Your Strategy": {
+        "description": "Use historical data to backtest your price action trading strategy.",
+        "resources": [
+          {
+            "title": "Backtesting Strategies",
+            "url": "https://www.example.com/backtesting"
+          },
+          {
+            "title": "YouTube - How to Backtest a Trading Strategy",
+            "url": "https://www.youtube.com/watch?v=example11"
+          }
+        ]
+      }
+    },
+    "Week 13-14: Demo Trading and Refinement": {
+      "Demo Trading": {
+        "description": "Start applying your strategy on a demo account to gain practical experience.",
+        "resources": [
+          {
+            "title": "Demo Trading Accounts",
+            "url": "https://www.tradingview.com"
+          },
+          {
+            "title": "MetaTrader",
+            "url": "https://www.metatrader4.com"
+          }
+        ]
+      },
+      "Strategy Refinement": {
+        "description": "Analyze your trades and refine your strategy based on performance.",
+        "resources": [
+          {
+            "title": "Refining Your Strategy",
+            "url": "https://www.example.com/refining-strategy"
+          },
+          {
+            "title": "YouTube - Improving Your Trading Strategy",
+            "url": "https://www.youtube.com/watch?v=example12"
+          }
+        ]
+      }
+    }
+  },
+  "Ongoing Learning and Improvement": {
+    "Continuous Learning and Community Involvement": {
+      "Join Trading Communities": {
+        "description": "Participate in trading communities and forums to stay updated and get feedback.",
+        "resources": [
+          {
+            "title": "Trading Forums",
+            "url": "https://www.forexfactory.com"
+          },
+          {
+            "title": "TradingView Community",
+            "url": "https://www.tradingview.com"
+          }
+        ]
+      },
+      "Attend Webinars and Advanced Courses": {
+        "description": "Attend webinars and enroll in advanced courses to stay updated.",
+        "resources": [
+          {
+            "title": "Trading Webinars",
+            "url": "https://www.example.com/webinars"
+          },
+          {
+            "title": "Advanced Trading Courses",
+            "url": "https://www.example.com/advanced-courses"
+          }
+        ]
+      }
+    },
+    "Maintain a Trading Journal": {
+      "description": "Document every trade, including entry and exit points, rationale, and outcomes.",
+      "resources": [
+        {
+          "title": "How to Keep a Trading Journal",
+          "url": "https://www.example.com/trading-journal"
+        },
+        {
+          "title": "YouTube - Trading Journal Tips",
+          "url": "https://www.youtube.com/watch?v=example14"
+        }
+      ]
+    },
+    "Continuous Risk Management": {
+      "description": "Always adhere to strict risk management rules.",
+      "resources": [
+        {
+          "title": "Risk Management in Trading",
+          "url": "https://www.example.com/risk-management"
+        },
+        {
+          "title": "YouTube - Risk Management Strategies",
+          "url": "https://www.youtube.com/watch?v=example15"
+        }
+      ]
+    },
+    "Adapt and Evolve": {
+      "description": "Be prepared to adapt your strategy as market conditions change.",
+      "resources": [
+        {
+          "title": "Adapting to Market Conditions",
+          "url": "https://www.example.com/adapting-strategy"
+        },
+        {
+          "title": "YouTube - Evolving Your Trading Strategy",
+          "url": "https://www.youtube.com/watch?v=example16"
+        }
+      ]
+    }
   }
 }
