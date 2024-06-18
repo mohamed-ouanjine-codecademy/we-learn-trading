@@ -32,13 +32,13 @@ function RoadMap() {
               (() => {
                 switch (selectedPlan) {
                   case 'technicalAnalysis':
-                    return 'Technical Analysis';
+                    return 'Technical Analysis ';
                   case 'priceAction':
-                    return 'Price Action';
+                    return 'Price Action ';
                   case 'smc':
-                    return 'SMC (Smart Money Concept)';
+                    return 'SMC (Smart Money Concept) ';
                   case 'ict':
-                    return 'ICT (Inner Circle Trader)';
+                    return 'ICT (Inner Circle Trader) ';
                   default:
                     return '';
                 }
