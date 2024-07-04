@@ -1,26 +1,24 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import Section from './components/Section';
+import { useDispatch, useSelector } from 'react-redux';
+import { setPlan, getRoadMap } from './RoadMapSlice';
+import Spinner from '../../components/Spinner';
 
 function RoadMap() {
-  const [roadmapData, setRoadmapData] = useState(null);
-  const [selectedPlan, setSelectedPlan] = useState('technicalAnalysis');
+  const dispatch = useDispatch();
+  const roadmapData = useSelector((state) => state.roadMap.roadMap);
+  const selectedPlan = useSelector((state) => state.roadMap.plan);
+  const isPending = useSelector((state) => state.roadMap.getRoadMap.isPending);
+  const isRejected = useSelector((state) => state.roadMap.getRoadMap.isRejected);
 
   useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch(`/data/${selectedPlan}Plan.json`);
-        const data = await response.json();
-        setRoadmapData(data);
-      } catch (error) {
-        console.error('Error fetching data: ', error);
-      }
-    };
-
-    fetchData();
-  }, [selectedPlan]);
+    if (selectedPlan) {
+      dispatch(getRoadMap(selectedPlan));
+    }
+  }, [selectedPlan, dispatch]);
 
   const handlePlanChange = (event) => {
-    setSelectedPlan(event.target.value);
+    dispatch(setPlan(event.target.value));
   };
 
   return (
@@ -44,18 +42,24 @@ function RoadMap() {
                 }
               })()
             }
-            Learning Plan</h1>
+            Learning Plan
+          </h1>
         </div>
         <div className='col'>
           <select value={selectedPlan} onChange={handlePlanChange} className="form-select">
             <option value="technicalAnalysis">Technical Analysis</option>
-            {/* <option value="priceAction">Price Action</option> */}
             <option value="smc">SMC (Smart Money Concept)</option>
             <option value="ict">ICT (Inner Circle Trader)</option>
           </select>
         </div>
       </div>
       <div className='row row-cols-1 g-5'>
+        {isPending && (
+          <div className='col-12 d-flex justify-content-center'>
+            <Spinner />
+          </div>
+        )}
+        {isRejected && <p>Error loading roadmap data</p>}
         {roadmapData &&
           Object.entries(roadmapData).map(([sectionTitle, section], i) => (
             <div className='col' key={i}>

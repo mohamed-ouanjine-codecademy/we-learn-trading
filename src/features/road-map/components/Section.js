@@ -1,6 +1,6 @@
 // Section.js
 import React from "react";
-import Accordion from "../../Accordion";
+import Accordion from "../../../components/Accordion";
 
 function Section({ sectionTitle, section }) {
   return (

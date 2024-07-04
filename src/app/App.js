@@ -1,12 +1,12 @@
 import React from 'react';
 import { RouterProvider, createBrowserRouter, createRoutesFromElements, Route } from 'react-router-dom';
-import Root from './components/Root';
-import Welcome from './components/Welcome';
-import RoadMap from './components/road-map/RoadMap'
-import Resources from './components/Resources';
-import Article from './components/Article';
-import NavigatingExchangeRate from './components/articles/NavigatingExchangeRate';
-import ArticlesList from './components/ArticlesList';
+import Root from '../components/Root';
+import Welcome from '../components/Welcome';
+import RoadMap from '../features/road-map/RoadMap'
+import Resources from '../components/Resources';
+import Article from '../components/Article';
+import NavigatingExchangeRate from '../components/articles/NavigatingExchangeRate';
+import ArticlesList from '../components/ArticlesList';
 
 const router = createBrowserRouter(createRoutesFromElements(
   <Route path='/' element={<Root />}>
