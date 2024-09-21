@@ -31,6 +31,8 @@ function RoadMap() {
                 switch (selectedPlan) {
                   case 'technicalAnalysis':
                     return 'Technical Analysis ';
+                  case 'fundamentalAnalysis':
+                    return 'Fundamental Analysis ';
                   case 'priceAction':
                     return 'Price Action ';
                   case 'smc':
@@ -48,6 +50,7 @@ function RoadMap() {
         <div className='col'>
           <select value={selectedPlan} onChange={handlePlanChange} className="form-select">
             <option value="technicalAnalysis">Technical Analysis</option>
+            <option value="fundamentalAnalysis">Fundamental Analysis</option>
             <option value="smc">SMC (Smart Money Concept)</option>
             <option value="ict">ICT (Inner Circle Trader)</option>
           </select>

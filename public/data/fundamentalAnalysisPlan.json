@@ -1,0 +1,155 @@
+{
+  "Fundamental Analysis Study Plan": {
+      "Week 1: Introduction to Fundamental Analysis": {
+          "What is Fundamental Analysis?": {
+              "description": "Overview of fundamental analysis and its key concepts.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Fundamental Analysis",
+                      "url": "https://www.investopedia.com/terms/f/fundamentalanalysis.asp"
+                  }
+              ]
+          },
+          "Differences Between Technical and Fundamental Analysis": {
+              "description": "Compare and contrast technical analysis with fundamental analysis.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Technical vs Fundamental Analysis",
+                      "url": "https://www.investopedia.com/articles/trading/06/fundamentalanalysis.asp"
+                  }
+              ]
+          }
+      },
+      "Week 2: Macroeconomic Indicators": {
+          "GDP (Gross Domestic Product)": {
+              "description": "Understand GDP and how it reflects a country's economic health.",
+              "resources": [
+                  {
+                      "title": "Investopedia - What is GDP?",
+                      "url": "https://www.investopedia.com/terms/g/gdp.asp"
+                  }
+              ]
+          },
+          "Interest Rates and Central Banks": {
+              "description": "Learn how interest rates affect the economy and markets.",
+              "resources": [
+                  {
+                      "title": "Investopedia - How Interest Rates Affect Markets",
+                      "url": "https://www.investopedia.com/articles/stocks/09/how-interest-rates-affect-markets.asp"
+                  }
+              ]
+          },
+          "Inflation and CPI (Consumer Price Index)": {
+              "description": "Explore inflation and CPI as key indicators of economic stability.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Inflation and How It Works",
+                      "url": "https://www.investopedia.com/terms/i/inflation.asp"
+                  }
+              ]
+          }
+      },
+      "Week 3: Financial Statements (For Stocks)": {
+          "Income Statement": {
+              "description": "Learn how to interpret income statements to gauge company performance.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Income Statement",
+                      "url": "https://www.investopedia.com/terms/i/incomestatement.asp"
+                  }
+              ]
+          },
+          "Balance Sheet": {
+              "description": "Understand assets, liabilities, and shareholders' equity on a balance sheet.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Balance Sheet",
+                      "url": "https://www.investopedia.com/terms/b/balancesheet.asp"
+                  }
+              ]
+          },
+          "Cash Flow Statement": {
+              "description": "Analyze the cash flow statement to understand how cash moves in a company.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Cash Flow Statement",
+                      "url": "https://www.investopedia.com/terms/c/cashflowstatement.asp"
+                  }
+              ]
+          }
+      },
+      "Week 4: Valuation Methods": {
+          "Price-to-Earnings (P/E) Ratio": {
+              "description": "Evaluate how the P/E ratio helps assess stock valuation.",
+              "resources": [
+                  {
+                      "title": "Investopedia - P/E Ratio",
+                      "url": "https://www.investopedia.com/terms/p/price-earningsratio.asp"
+                  }
+              ]
+          },
+          "Price-to-Book (P/B) Ratio": {
+              "description": "Learn to assess company value with the P/B ratio.",
+              "resources": [
+                  {
+                      "title": "Investopedia - P/B Ratio",
+                      "url": "https://www.investopedia.com/terms/p/price-to-bookratio.asp"
+                  }
+              ]
+          },
+          "Dividend Yield": {
+              "description": "Understand dividend yield as a source of income for investors.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Dividend Yield",
+                      "url": "https://www.investopedia.com/terms/d/dividendyield.asp"
+                  }
+              ]
+          }
+      },
+      "Week 5: Industry and Sector Analysis": {
+          "Understanding Sectors and Industries": {
+              "description": "Explore how different sectors perform during economic cycles.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Sector Breakdown",
+                      "url": "https://www.investopedia.com/terms/s/sector.asp"
+                  }
+              ]
+          }
+      },
+      "Week 6: Global Events and News": {
+          "Geopolitical Events": {
+              "description": "Analyze how global events affect currency pairs, commodities, and stocks.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Geopolitical Risk",
+                      "url": "https://www.investopedia.com/terms/g/geopolitical-risk.asp"
+                  }
+              ]
+          }
+      },
+      "Week 7: Earnings Reports and Announcements": {
+          "Understanding Earnings Reports": {
+              "description": "Learn how to interpret quarterly earnings reports and their impact on stocks.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Earnings Report",
+                      "url": "https://www.investopedia.com/terms/e/earnings-report.asp"
+                  }
+              ]
+          }
+      },
+      "Week 8: Combining Fundamental Analysis with Trading": {
+          "Fundamental and Technical Analysis Together": {
+              "description": "Use both fundamental and technical analysis for well-rounded trading decisions.",
+              "resources": [
+                  {
+                      "title": "Investopedia - Combining Technical and Fundamental Analysis",
+                      "url": "https://www.investopedia.com/articles/technical/02/092002.asp"
+                  }
+              ]
+          }
+      }
+  }
+}
