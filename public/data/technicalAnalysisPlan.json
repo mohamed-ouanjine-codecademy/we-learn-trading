@@ -951,7 +951,20 @@
       },
       "Incorporating risk management rules and trade filters": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Risk Management Techniques for Active Traders",
+            "url": "https://www.investopedia.com/articles/trading/09/risk-management.asp"
+          },
+          {
+            "title": "Investopedia - 10 Steps to Building a Winning Trading Plan",
+            "url": "https://www.investopedia.com/articles/trading/04/042104.asp"
+          },
+          {
+            "title": "Investopedia - Top 10 Rules for Successful Trading",
+            "url": "https://www.investopedia.com/articles/trading/10/top-ten-rules-for-trading.asp"
+          }
+        ]
       }
     },
     "Strategy optimization and refinement": {
