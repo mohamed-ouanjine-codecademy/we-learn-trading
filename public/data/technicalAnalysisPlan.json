@@ -934,7 +934,20 @@
     "Developing trading strategies": {
       "Combining technical indicators and chart patterns": {
         "description": "",
-        "resources": []
+        "resources": [
+          {
+            "title": "Investopedia - Using Technical Indicators to Develop Trading Strategies",
+            "url": "https://www.investopedia.com/articles/trading/11/indicators-and-strategies-explained.asp"
+          },
+          {
+            "title": "Investopedia - An Introduction to Price Action Trading Strategies",
+            "url": "https://www.investopedia.com/articles/active-trading/110714/introduction-price-action-trading-strategies.asp"
+          },
+          {
+            "title": "Investopedia - How to Develop an Effective Trading Strategy",
+            "url": "https://www.investopedia.com/how-to-develop-an-effective-trading-strategy-4802682"
+          }
+        ]
       },
       "Incorporating risk management rules and trade filters": {
         "description": "",
